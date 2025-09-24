@@ -23,23 +23,23 @@ The project is built with:
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-git clone https://github.com/nayer-fki/gym360-smart.git
-cd gym360-smart
+-git clone https://github.com/nayer-fki/gym360-smart.git
+-cd gym360-smart
 
 
 
 ### 2. Setup Backend
 cd gym360-backend
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 shell
 Copy code
 
 ### 3. Setup Frontend
 cd ../gym360-frontend
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 
 ### 4. Power BI
@@ -59,3 +59,4 @@ Open the `.pbix` file inside `power-bi/` with **Power BI Desktop** to view repor
 **Nayer Fki**  
 - GitHub: [nayer-fki](https://github.com/nayer-fki)  
 - Project: [gym360-smart](https://github.com/nayer-fki/gym360-smart)  
+
