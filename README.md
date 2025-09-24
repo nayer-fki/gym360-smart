@@ -25,22 +25,24 @@ The project is built with:
 ```bash
 git clone https://github.com/nayer-fki/gym360-smart.git
 cd gym360-smart
-2. Setup Backend
-bash
+###2. Setup Backend
+
+```bash
 Copy code
 cd gym360-backend
 npm install
 npm run dev
-3. Setup Frontend
-bash
-Copy code
+###3. Setup Frontend
+
+```bash
+
 cd ../gym360-frontend
 npm install
 npm run dev
-4. Power BI
+###4. Power BI
 Open the .pbix file inside power-bi/ with Power BI Desktop to view reports.
 
-🛠️ Tech Stack
+###🛠️ Tech Stack
 Node.js / Express
 
 MongoDB / Mongoose
@@ -49,7 +51,8 @@ React / Next.js / TailwindCSS
 
 Power BI
 
-👨‍💻 Developer
+###👨‍💻 Developer
 Nayer Fki
 GitHub: nayer-fki
 Project: gym360-smart
+
