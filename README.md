@@ -2,7 +2,8 @@
 
 ## 📌 Introduction
 **Gym360 Smart** is a simple gym management system that helps manage clients, coaches, subscriptions, training sessions, payments, and feedback.  
-The project is built with:
+
+The project is built with:  
 - **Backend**: Node.js + Express + MongoDB  
 - **Frontend**: React/Next.js + TailwindCSS  
 - **Analytics**: Power BI for business dashboards  
@@ -22,37 +23,39 @@ The project is built with:
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/nayer-fki/gym360-smart.git
 cd gym360-smart
-###2. Setup Backend
 
-```bash
-Copy code
+
+
+### 2. Setup Backend
 cd gym360-backend
 npm install
 npm run dev
-###3. Setup Frontend
 
-```bash
+shell
+Copy code
 
+### 3. Setup Frontend
 cd ../gym360-frontend
 npm install
 npm run dev
-###4. Power BI
-Open the .pbix file inside power-bi/ with Power BI Desktop to view reports.
 
-###🛠️ Tech Stack
-Node.js / Express
 
-MongoDB / Mongoose
+### 4. Power BI
+Open the `.pbix` file inside `power-bi/` with **Power BI Desktop** to view reports.
 
-React / Next.js / TailwindCSS
+---
 
-Power BI
+## 🛠️ Tech Stack
+- Node.js / Express  
+- MongoDB / Mongoose  
+- React / Next.js / TailwindCSS  
+- Power BI  
 
-###👨‍💻 Developer
-Nayer Fki
-GitHub: nayer-fki
-Project: gym360-smart
+---
 
+## 👨‍💻 Developer
+**Nayer Fki**  
+- GitHub: [nayer-fki](https://github.com/nayer-fki)  
+- Project: [gym360-smart](https://github.com/nayer-fki/gym360-smart)  
