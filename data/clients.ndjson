@@ -1,0 +1,600 @@
+{"_id": {"$oid": "fc59f7e21a2d716fff25a1ed"}, "userId": {"$oid": "35eaf764106eff18dfc71301"}, "subscriptionId": {"$oid": "bb3facff0243f2cc178dc807"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ad45681e46c7a855ab849e85"}, "userId": {"$oid": "aeccb75f96daaedcf0878a03"}, "subscriptionId": {"$oid": "d022dd9d21047f42f6877440"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3c7f4012cf2406eb0b7c0e58"}, "userId": {"$oid": "a2b21884760bc9f9dd991817"}, "subscriptionId": {"$oid": "a1235439d72c291780857e91"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "af4099ba411ed149118204db"}, "userId": {"$oid": "a512814c336fe776f8c1c257"}, "subscriptionId": {"$oid": "6d478a53d2d05c896e09656b"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "79584ba170d11ad54742688c"}, "userId": {"$oid": "53f30b78067b47500e70e681"}, "subscriptionId": {"$oid": "75a7ff8e2b1cb7531d7ee694"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d0b4eaa4b04a8f5deca2c67a"}, "userId": {"$oid": "bc841f17485bff4d6390bf6c"}, "subscriptionId": {"$oid": "14d3190b405072c91d420ca6"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f23207c19145be26034bb280"}, "userId": {"$oid": "551f366d4484b742b98259a0"}, "subscriptionId": {"$oid": "4c6322853fcd587a8fb6bf3b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "ab5df748b7bb37aea8ee0a0a"}, "userId": {"$oid": "2e48bdd23ef93f6ed8cd63a8"}, "subscriptionId": {"$oid": "dd978715d1fc4080f4c5b1e5"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "01d5ce45d4414569d0750612"}, "userId": {"$oid": "e3b106f90fdb56df652f6bf6"}, "subscriptionId": {"$oid": "6fdf71b58904b217d6fcbbf7"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "1db3fb3dd2844395c0fd0a21"}, "userId": {"$oid": "49e427f0cf1b4a9dbb523be0"}, "subscriptionId": {"$oid": "ee7d64002186ea4a60ca36a7"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ae8fb98ce52a8dd2c127effd"}, "userId": {"$oid": "0c4d57ae1ac626f03cb2ab57"}, "subscriptionId": {"$oid": "485eb3a5f2b564304bc15580"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d8b9f99e0d762632721069ff"}, "userId": {"$oid": "d49ec2965e04bb8473f9630d"}, "subscriptionId": {"$oid": "749682d766a28cc2d747346f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "3dd0bf618759a15127b31789"}, "userId": {"$oid": "b2fd244b1d71d770aa39dd26"}, "subscriptionId": {"$oid": "dde254ef17deb54e2a3164a2"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b8064f8be213d669cda55afe"}, "userId": {"$oid": "910aa1906d3c74c291e1e00a"}, "subscriptionId": {"$oid": "28101878c38641a19b2d6252"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "07bb970ea2a7a37aa7d2144e"}, "userId": {"$oid": "6b927f1977ae46acd6444a9b"}, "subscriptionId": {"$oid": "d37126e9b9f77a15c7c36741"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "fb62289abd9b5774340335f0"}, "userId": {"$oid": "b5a5ba89e9d5fb665445f43d"}, "subscriptionId": {"$oid": "8041dcca105c385bfcf1776e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ca799e7bc577f7156a24019c"}, "userId": {"$oid": "f7644c41a372f3a5270349ac"}, "subscriptionId": {"$oid": "e2598da5c54e7aed6abab515"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "bfcd30b519ec724e4d42edab"}, "userId": {"$oid": "ff6a61036947aac605b1f102"}, "subscriptionId": {"$oid": "1631d57cf728665f3150577e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b35664fc54e436587ba58fa0"}, "userId": {"$oid": "252954682b0043ad2f3f3a7a"}, "subscriptionId": {"$oid": "3fc1e09c1dda192440242049"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "a7e09fc1cdfdd2c66308560c"}, "userId": {"$oid": "3257b2013e78815b27241843"}, "subscriptionId": {"$oid": "4d82dfd51590d93ae91614c7"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "31d0a492d21b988002bd2984"}, "userId": {"$oid": "43e5416ed8e9b1cf54360367"}, "subscriptionId": {"$oid": "1cfe79754135f6bf7f9ae4bb"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "8a60293a9e0549ef4b36dbde"}, "userId": {"$oid": "d513ffad1b9b410d140510a9"}, "subscriptionId": {"$oid": "c2fc248b9f18dc784d970cef"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "46b7ced6ee6197613d863ffd"}, "userId": {"$oid": "bf7fb184e52fda662c317a99"}, "subscriptionId": {"$oid": "3f280efdece066e51bf5f3af"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "835a3d4144d960a2f98d6908"}, "userId": {"$oid": "2df06c5197cf988005b3f071"}, "subscriptionId": {"$oid": "f28113406a1fbf936af33fdf"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "086b6fa13f99069810b84b3c"}, "userId": {"$oid": "ff82659ca3d23ff94e844439"}, "subscriptionId": {"$oid": "41038ae4cbd29af13b9a7b19"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4a4c09e6eaa43abcaf2fafae"}, "userId": {"$oid": "4af1973065de676b36fbe732"}, "subscriptionId": {"$oid": "d09f015706078d1ee47e0db1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b8fb220c00bef20f595c19cb"}, "userId": {"$oid": "1ae505d42405a2a80b821686"}, "subscriptionId": {"$oid": "4bf40b2db2cd560ccabf4b14"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e79416af6fef3727383f7ea4"}, "userId": {"$oid": "2db4e5182b43c869e91c00f6"}, "subscriptionId": {"$oid": "803b781c157537eacd3f6f0e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "c3177fdb5f86866a8cf3daad"}, "userId": {"$oid": "7fbba73a8a475aef6aa9f495"}, "subscriptionId": {"$oid": "2a2e49273a3f49bd1bc0928d"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "9a226b480fa89e4fec293afd"}, "userId": {"$oid": "27292f6cb45d161acbb1ffb2"}, "subscriptionId": {"$oid": "f63ab8fe0fe0258542785bed"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "963451af268af6c3cc2d623e"}, "userId": {"$oid": "bf6cc7ef4a542451b9bdc21a"}, "subscriptionId": {"$oid": "e5e432e4beb9b1881e3e1136"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2514973ae7557f47b3ba271b"}, "userId": {"$oid": "c77eac69502f4cfed7b93ce8"}, "subscriptionId": {"$oid": "790c69f1ee9104e9ba7f4aee"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "65906a3e603a6f06e3ea05d9"}, "userId": {"$oid": "7310d51eaea5778d84909097"}, "subscriptionId": {"$oid": "91ba63863decb49dfd696a0f"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "eaa87fbbefb9eb7138f21e57"}, "userId": {"$oid": "8b519ee32c6164d22cac1f8b"}, "subscriptionId": {"$oid": "668b62d3eaee979aed3228c2"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "6185366f386b8637aaba01b3"}, "userId": {"$oid": "90479869e7f6ffb96abe6af5"}, "subscriptionId": {"$oid": "6ef682333ab69c60f793346e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a453df9c7aa57f299fe3ebb4"}, "userId": {"$oid": "3cfcdeb75e0050927619f3f1"}, "subscriptionId": {"$oid": "1dfec564a7632fdd69bbacb8"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "28080559d555203e56696924"}, "userId": {"$oid": "6090009950e2b49491069afd"}, "subscriptionId": {"$oid": "d9305bea3381ff66873579b4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "8557629c7a6fe707e0c44b79"}, "userId": {"$oid": "9396f4307f2b0e6f203f7e4e"}, "subscriptionId": {"$oid": "d7628f210a86646b785508ca"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "da0181fc28128e630e812e50"}, "userId": {"$oid": "561dcaf26eb33b58da4dead1"}, "subscriptionId": {"$oid": "503e5c8d97f313094e248820"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c52a14eabce20d7ae55873f2"}, "userId": {"$oid": "a791f2c5cdd4b1fe76ea967e"}, "subscriptionId": {"$oid": "2dfc614692ba63820052eb61"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f3581f1e525c0283463de534"}, "userId": {"$oid": "3473233c4faee501127b8c13"}, "subscriptionId": {"$oid": "b703e4b51fdff5ebbb120a58"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c0916a9f6d9581a29870a720"}, "userId": {"$oid": "fea372b66b71ffdf5c309f0a"}, "subscriptionId": {"$oid": "c5316deb53d84924b8413f36"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "34f7be122784b5456dd8bc92"}, "userId": {"$oid": "9ae53385a898035bfac227af"}, "subscriptionId": {"$oid": "346ce63db8ac4769819df62c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "406f7390cf72a2451a801d65"}, "userId": {"$oid": "fe7f87ae6bb851614b2490c2"}, "subscriptionId": {"$oid": "690290104d7af3d989c5d3b3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "7d3e467a64d2ca92014530dc"}, "userId": {"$oid": "11db5e55b50f7d9395c61bb3"}, "subscriptionId": {"$oid": "fc56b5e6ac2e19fa8e617fe5"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "707929cf09c248e968a8e2e0"}, "userId": {"$oid": "4d700bade756154dad041339"}, "subscriptionId": {"$oid": "6b7089b6610dae1c749fc0f5"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4d1b2f0fc2072930cf544774"}, "userId": {"$oid": "d1c7461ea1f0fe179eb44e46"}, "subscriptionId": {"$oid": "b3325d8a7221cbfddc87d082"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "2046b1bf89f83366386fad48"}, "userId": {"$oid": "f59b0f3518382a6f79bef385"}, "subscriptionId": {"$oid": "77cadfc80ca13f9810201335"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d699439139d198a60d5e0e47"}, "userId": {"$oid": "a9cc5aa4478a48b0e2cca8ba"}, "subscriptionId": {"$oid": "7896f604cacd15502b587c24"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "202fcc5e1c0a9cb2774abb57"}, "userId": {"$oid": "23994adaaba8b89602f2103b"}, "subscriptionId": {"$oid": "a154ffa287868491670c07b6"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "146d623a7e55d99678e02cd4"}, "userId": {"$oid": "fc2c7fb2102396d93cc8882a"}, "subscriptionId": {"$oid": "3a7deda2e685709c855a8e2b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "dff440da0491e0f1ccc1edcc"}, "userId": {"$oid": "417dca617fb0ad3f4a512f9b"}, "subscriptionId": {"$oid": "1eab3bb3620278002c521ae3"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "41067c8537fcd3c4853c90d6"}, "userId": {"$oid": "ba76358911763c22b553c710"}, "subscriptionId": {"$oid": "3a8299937b8221ef55b80bd0"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "dddf4787dde3617d2fec862a"}, "userId": {"$oid": "c5d8d1a48b17c9209153562e"}, "subscriptionId": {"$oid": "f2a763dcabfa6034da4d0178"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "722546323d136501b7452399"}, "userId": {"$oid": "108e5aa54c0a9c1cc0d90afd"}, "subscriptionId": {"$oid": "f0036875831ac25d22e2122b"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "12c8bc43e6388be6a759d7f3"}, "userId": {"$oid": "002fcc3820ccf2a0ef08f289"}, "subscriptionId": {"$oid": "83ba5253509558528955ffeb"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "24cfabc7102d8c2804c54d6b"}, "userId": {"$oid": "ea9415d314b1cb04eb02a566"}, "subscriptionId": {"$oid": "84e073fba0b187eb27a02825"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "8f3181742f50d85e76c99a53"}, "userId": {"$oid": "3dd50b4e3b87c848f8779912"}, "subscriptionId": {"$oid": "05be884d23cb60cd7d37c91d"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "8d2b01e132c6b85a543f9c45"}, "userId": {"$oid": "e138a8138159d57645e09f67"}, "subscriptionId": {"$oid": "11126e59e166d760ff10446c"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "3e39ac7b90cf4c3f8237f8d5"}, "userId": {"$oid": "af6f0031c9ecd6200266dc75"}, "subscriptionId": {"$oid": "6a110695cf4219b2ba879d6b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "ee4d4f649a71814922fd13b1"}, "userId": {"$oid": "6eb69984ead24c0cc3046172"}, "subscriptionId": {"$oid": "0a17fb4504291a4ff835e451"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "5778c5cd6ace67cd3b0a4908"}, "userId": {"$oid": "60fb93f92bd5ab3e1ac20ed9"}, "subscriptionId": {"$oid": "8343f360be8a0f87a18f3fdd"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "06a47a8685ee153c97a37462"}, "userId": {"$oid": "2a1ce819fa07017261a0b234"}, "subscriptionId": {"$oid": "2696a4de6e71f9d585728229"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "6de329ce4cac68271efbaf24"}, "userId": {"$oid": "e372ab45b26826732dc6d374"}, "subscriptionId": {"$oid": "b2ec44cb05a05b629371f63e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "8aace5f31eb6fbf81b552c4e"}, "userId": {"$oid": "edef80bac04ffaae2888a59a"}, "subscriptionId": {"$oid": "081aa6b8a845cc8d97804ccc"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "73af8fef8adb965f1d947e39"}, "userId": {"$oid": "592a2d35b2bf24166016c837"}, "subscriptionId": {"$oid": "7613350d3c3682d5270d7af9"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "76f7c08844a5a5a014ea2d01"}, "userId": {"$oid": "25b7425dc6e73bc4d8925f62"}, "subscriptionId": {"$oid": "b40369a40986c261857bf94f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "1156833aa14608805bf211d0"}, "userId": {"$oid": "c39e6411c442f64a8f80b91a"}, "subscriptionId": {"$oid": "915417e20b70ebede2314464"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "3e09c03453991ae7f33b9c36"}, "userId": {"$oid": "9378d7fea99bb9f7ac11ada6"}, "subscriptionId": {"$oid": "0e0d5102e79b379a139f5cb0"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "7661e15b1320c8c378effdfa"}, "userId": {"$oid": "5e3e5b45a2f8fd09b4e9ed54"}, "subscriptionId": {"$oid": "340c2f154c198bd48c376510"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "0f01c9bf8af4520d58ff2900"}, "userId": {"$oid": "85d315b363a1cc73544f8077"}, "subscriptionId": {"$oid": "c8e402b33bf9058442d1ebf9"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "48ae2fa804385847c58413f7"}, "userId": {"$oid": "c605584500de3b2d1dbf0d2b"}, "subscriptionId": {"$oid": "76fb91f904fb2ba5124aa7c0"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a4ec6c7c302de89cc652b0a2"}, "userId": {"$oid": "1373d5641ceaf512b853ee35"}, "subscriptionId": {"$oid": "e43026f6c1f064dc196819b1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a72188680c36f19966fe3ca7"}, "userId": {"$oid": "a5c587db2f9b7d014f60a68b"}, "subscriptionId": {"$oid": "af98cbd8869d25f95b4f35ec"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "5a8b3bc23f2c2b72d48b15b9"}, "userId": {"$oid": "7d175a660cd9c2f3899753ea"}, "subscriptionId": {"$oid": "6e4838ed78744030ba63b4d0"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f6e12a4ba6705c1bac4b4c94"}, "userId": {"$oid": "74bad25430b2b44513cfe536"}, "subscriptionId": {"$oid": "eb2b76955da7d8841f31ed0d"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "39d1625339c539ddbe4574f6"}, "userId": {"$oid": "bd0a78a844ccfa60878c0bb4"}, "subscriptionId": {"$oid": "b0c3df82afc2840fb206bb0a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "1b6bfee996bfa9f2ef394792"}, "userId": {"$oid": "f510580e82c3ab3e6e15013c"}, "subscriptionId": {"$oid": "26ad782e0e1e352dd1df96ae"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "74c69c6d920d379f3be9e734"}, "userId": {"$oid": "fee28fde1785ff9a603f2891"}, "subscriptionId": {"$oid": "9bae861ee2d1965fd8bb7a83"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "761cc2129a68589d403973d8"}, "userId": {"$oid": "445d8a1499e2eab4503441f2"}, "subscriptionId": {"$oid": "30b49dad30d6748ad9fa9245"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "097fc8f63b0d027fe188c679"}, "userId": {"$oid": "1cd5ad42ed910a756ca00c7c"}, "subscriptionId": {"$oid": "3191c359eea16f35fff2b006"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "e540b4570d7ccfdaef48cb0e"}, "userId": {"$oid": "94d0eaee9f9ce2a6e2f11df1"}, "subscriptionId": {"$oid": "869607948234150495989a1b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "71f2b75a25a4fe163564dc94"}, "userId": {"$oid": "682e360589e19a19f3395c26"}, "subscriptionId": {"$oid": "b25ab44b99f791ae62982f50"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "66ff106b508f7ff530c2c9ee"}, "userId": {"$oid": "abf1718e6b0201b46b6d174c"}, "subscriptionId": {"$oid": "467d5a9ffcf5fd181d0611ac"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b56761684551279288057c00"}, "userId": {"$oid": "71ab8ba253b83b5a87280fc4"}, "subscriptionId": {"$oid": "be27b4069a9a4db5ed5726fd"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c5c469ea4b082b8f5f0de6c6"}, "userId": {"$oid": "5e6d0179e3e2c6d70532930f"}, "subscriptionId": {"$oid": "50415bc9123c79518f9d4871"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "fa75a95b1566f819e23e8a61"}, "userId": {"$oid": "e62b9a16df260a9e901f62c5"}, "subscriptionId": {"$oid": "83ff591a36bca59d23e0a482"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "8871494933e2c0687cc62f9e"}, "userId": {"$oid": "30004e75112a9247a6e3c630"}, "subscriptionId": {"$oid": "67d7b6eb6295f3e91d093208"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "372284e120fc25db430c95a2"}, "userId": {"$oid": "b10c75b18afaed377ed77618"}, "subscriptionId": {"$oid": "cd582f675458c6af9f1be77b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ac4a799e3c976590b5299f8b"}, "userId": {"$oid": "040a4fcb4d255ed4c0c53806"}, "subscriptionId": {"$oid": "c25893ba646301c6494be08f"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "fbfb5eed2bb9bf0b00714896"}, "userId": {"$oid": "682cae15325274202ed31b55"}, "subscriptionId": {"$oid": "f3ded48ff3d326ab190faf9b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fa1b17b380663b501906e385"}, "userId": {"$oid": "a7887c23205211ab64d71af5"}, "subscriptionId": {"$oid": "42b5b748f7498173ab1e1c29"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "67bcff3e163730b686f141f0"}, "userId": {"$oid": "3f5fdb18db451e872c6346d3"}, "subscriptionId": {"$oid": "f4333255d9ddcca68ef5af12"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6a6b703d13d308b8b9bc3af8"}, "userId": {"$oid": "1241cc41a285dc81e021f568"}, "subscriptionId": {"$oid": "aabc345cec53e6d273f4892a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "f522382ea53941565aa7961b"}, "userId": {"$oid": "60b11a73c13c4ebaa69972a1"}, "subscriptionId": {"$oid": "45ea8825a7df26ce6334021b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a5dcd54205dab9787fe5868a"}, "userId": {"$oid": "0ef4801e1209f8f14c886280"}, "subscriptionId": {"$oid": "6bf902e1a9e5ecd5eb186fac"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "406220514e960dd7dc197057"}, "userId": {"$oid": "20ec8407f6d4209c5f1867bd"}, "subscriptionId": {"$oid": "8e25ee04279860b479d49583"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "372bd235747cc6eb30a91b5b"}, "userId": {"$oid": "c46e4c4e94aa399d277ffd3a"}, "subscriptionId": {"$oid": "c4febe2be7a51ad0f8cb1c15"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "0bb5e2b3679bf86e124242c1"}, "userId": {"$oid": "2d2a2538b8b0b878b75b3b66"}, "subscriptionId": {"$oid": "0f4904709e83aa99779afbf7"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ccea804c33aac6665d23172e"}, "userId": {"$oid": "eeb05388f5573eb46530000c"}, "subscriptionId": {"$oid": "1d186b3fe4ab35c10a74d2a1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6d8393359744c38ffe5c03b5"}, "userId": {"$oid": "088291de4d1a130bc03a9701"}, "subscriptionId": {"$oid": "c4ec9917b357207405f2b1c0"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "8ffbbcdb22404de39a73d4bf"}, "userId": {"$oid": "bf71b2e04b113040edd02bcd"}, "subscriptionId": {"$oid": "df2f1ae0969337e75a31a557"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "fbdfcee002e804c065870d31"}, "userId": {"$oid": "be7fc4031fa406b43392f835"}, "subscriptionId": {"$oid": "d00ca98a83e48b7789e8352f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "36f8fa54be20e12df0c956fd"}, "userId": {"$oid": "0fdbe11ef9a90e0f5def2e4c"}, "subscriptionId": {"$oid": "ebdc0860eda7cd58e96e0df4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6a4ebbbfba777c7836532ae9"}, "userId": {"$oid": "a97c9f25860da03c2067c06b"}, "subscriptionId": {"$oid": "bafb7928f137d6f941b77a60"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "868e4d23e2d0a69fa3bfa74d"}, "userId": {"$oid": "c5762d9559ba497c15b68458"}, "subscriptionId": {"$oid": "c636ab2eedeba3d20ac575a6"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "e3e7a90387f8e029b8982d6a"}, "userId": {"$oid": "987a4ed87818b01c83f1b2ea"}, "subscriptionId": {"$oid": "d45b8c00c75f4c6ac6a78186"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "12aeca940c474a49627f96b0"}, "userId": {"$oid": "f81881464ddf4ba5b29de440"}, "subscriptionId": {"$oid": "956e769e09d80762bfe76c21"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "213883756509aa99d9e32adf"}, "userId": {"$oid": "689dbf3d1e5e5267d0973052"}, "subscriptionId": {"$oid": "0dc81fe980ebb0ceb82432a7"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5b22120430c9034dbceac79d"}, "userId": {"$oid": "13f5ddb6e0246d98df940374"}, "subscriptionId": {"$oid": "7dd402958b99f867da4b0efe"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "71781f637bd1cd3ef40fc141"}, "userId": {"$oid": "eda83c188f35f2e7279334db"}, "subscriptionId": {"$oid": "a8ef73ace4e8aabd1080e19d"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "64868f4ca6ddd4bc9f60ed7f"}, "userId": {"$oid": "e4370fbce035e26c98a038a8"}, "subscriptionId": {"$oid": "0fba4c4f868405aa3d050115"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "be50b83513635a39c1f6917f"}, "userId": {"$oid": "2beb1e2f5469b590b9fb94e8"}, "subscriptionId": {"$oid": "d47a2878c8000ab2e407de2c"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "b9d113553e41012d61a136dd"}, "userId": {"$oid": "8477457b2ac511834dd2e525"}, "subscriptionId": {"$oid": "16695a5166885d4338bebd1b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "437fbb4a21813b4930757abe"}, "userId": {"$oid": "62f6f32a756dcbb54eb3b987"}, "subscriptionId": {"$oid": "5bc49165889879ace158ed11"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "4f2902ae6d7ed1df7577ef08"}, "userId": {"$oid": "7428a57c7586bf83f0406550"}, "subscriptionId": {"$oid": "a11aa6629042ae47f73dcab3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "474fac1c2aab4214a76c0b8c"}, "userId": {"$oid": "390d7b30337032a8ea75b26f"}, "subscriptionId": {"$oid": "0f4a4ecf6521a48f3f53a775"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "6eaaa89f06ffde9b55a2238a"}, "userId": {"$oid": "0b156f5519df6c1da2d09184"}, "subscriptionId": {"$oid": "833c50b34fc5e785348d82b3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d00584c9a32f6e98d4121a3e"}, "userId": {"$oid": "b75325b7ba8291c9726ad371"}, "subscriptionId": {"$oid": "92a445a911a866d4315ca636"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "a43ef45c0428a35f1626ac8d"}, "userId": {"$oid": "265dc8ff1c96235bec23429a"}, "subscriptionId": {"$oid": "15b6ee503e4ca2aebd2f125a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1855d94d67b1e34ee89b226b"}, "userId": {"$oid": "62f39673a80772948d7dc678"}, "subscriptionId": {"$oid": "9dd53752416d11831acf93ba"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "210a4ab9910c7d0774ba4246"}, "userId": {"$oid": "7124f7c6785a25085439844c"}, "subscriptionId": {"$oid": "d20d20b7b9fdbce14f46824c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5597d0aa9428b4a04b72e9bb"}, "userId": {"$oid": "420dd5e28df8af1d12def838"}, "subscriptionId": {"$oid": "1e11e9b4fa4d369ed4131978"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "49b565a33b9092a937c73104"}, "userId": {"$oid": "ce156979c4ff320be39e30ba"}, "subscriptionId": {"$oid": "bf4d249d6f8c8f1a7fb42bf6"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "18894f1cd3a42be28422f507"}, "userId": {"$oid": "a341528578771d4925ae7999"}, "subscriptionId": {"$oid": "1a0993521fa3bac93dbf12b5"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1834890b3445cd2156f95297"}, "userId": {"$oid": "4826563cf5c0656441f76592"}, "subscriptionId": {"$oid": "2591a350593d95dc79849b9f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5adef2cfc08603202b1f2db8"}, "userId": {"$oid": "478f4b30bebaa339f51868e1"}, "subscriptionId": {"$oid": "5fd201f20d6dc9d9052d39ed"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ab52116748b44488ee5355d8"}, "userId": {"$oid": "30ff906b7d5c7479353ab9db"}, "subscriptionId": {"$oid": "f46ff54e3f03109518502fe8"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "0c1cbe48ce769ba039e2d5b2"}, "userId": {"$oid": "76ea293ce8d2ea84851d8b0d"}, "subscriptionId": {"$oid": "9f652e8bba981ab2bf6b79d8"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "fa1769b729ca03c120af0cd3"}, "userId": {"$oid": "f7298a7bf1e2ae72878fa232"}, "subscriptionId": {"$oid": "76fd132ab128900ec8841ba4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "aa3f2a8b511b7cb23b194692"}, "userId": {"$oid": "c38f89519d7e427a6fb45e9b"}, "subscriptionId": {"$oid": "749a689ee48f581e6b1ea378"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "9a3b9c9b544cae644a2a0525"}, "userId": {"$oid": "2568f53bace85b8871276f8f"}, "subscriptionId": {"$oid": "0c82a1c2ef07795ce758953a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5ef9cd5b015457283e5d3c6e"}, "userId": {"$oid": "18f00b0f7f40ddeb9fe83a21"}, "subscriptionId": {"$oid": "9a8308fb8d68355584889c95"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "af3bddcb6497b06bdeab3816"}, "userId": {"$oid": "287efe4224430fd7367bf1bf"}, "subscriptionId": {"$oid": "12838ecae4bc885c22f338ed"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a831a797532a57519a6dea2c"}, "userId": {"$oid": "2a4e7e1ffcf421cfc0f90407"}, "subscriptionId": {"$oid": "3418f16a2692698085345943"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "17b03c0059faf33ef73c43cf"}, "userId": {"$oid": "defb425a3571cb31edb3d1d7"}, "subscriptionId": {"$oid": "6a7f362ad29cceb57099529b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c8d43429925fa4359e3e0b4b"}, "userId": {"$oid": "ff41e4e6725f0bccfeb85a49"}, "subscriptionId": {"$oid": "603960cbcaff85e1f6f12ca1"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "22c2a42030c5a6432bd541aa"}, "userId": {"$oid": "4f43996509ecfe9812b4a6ef"}, "subscriptionId": {"$oid": "bc17cfa32999a272b7013e03"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a1749a4016f218b6a20710b0"}, "userId": {"$oid": "3c4c05ab994b3bbd4bed6df1"}, "subscriptionId": {"$oid": "60cd5d34ffc7cab7c17f1266"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2c279ada9c279b7f7a43e2ac"}, "userId": {"$oid": "9ebe2799df5921f79d07cf6c"}, "subscriptionId": {"$oid": "79107415e136ea14ae158f73"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "03f6e2f8fd4b28ddf8305492"}, "userId": {"$oid": "bc4e0b1c590b6db1e944f3f4"}, "subscriptionId": {"$oid": "1b976abb5497ad69bb5b82a1"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c0e93520ea0bd27fe84363c4"}, "userId": {"$oid": "0000e3dee837d3f76a4e31e6"}, "subscriptionId": {"$oid": "19ab179d6bdff8e024631629"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "e15d5b5d8ce944b94709d536"}, "userId": {"$oid": "fa5c728e4398d9ad58d4d606"}, "subscriptionId": {"$oid": "4ff6abb9fee085e5349334c3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a77931765e89ff5e638d319c"}, "userId": {"$oid": "7da28bf202858e8db83525a1"}, "subscriptionId": {"$oid": "850c62b355493d159bc5e2fe"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4c656a2bf1e4c3c2c4486a88"}, "userId": {"$oid": "183304c6ce1199e7ed28ffa3"}, "subscriptionId": {"$oid": "22e47f23dae4f4dd73c6853b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "dab3791bce708c15b03e09c3"}, "userId": {"$oid": "88fc5c2ace2c6c00da619459"}, "subscriptionId": {"$oid": "b06a7a0aef8be4bc4aa672ae"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5a7651db0d294ca25da6ed57"}, "userId": {"$oid": "428bc98d9499d270baae3b27"}, "subscriptionId": {"$oid": "3ef5bba7606af6bc42144fd9"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "1ef35bb58321a8101faaf313"}, "userId": {"$oid": "464a287125e278ac890f6e39"}, "subscriptionId": {"$oid": "dc7e24215e1bdf9eb5dedb3b"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "c462e032dfa250c2a183757b"}, "userId": {"$oid": "d8f0222951acd63852b498b5"}, "subscriptionId": {"$oid": "f3981fca01d9db9cced48ab4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4917eebbaa0c879db2b1cec9"}, "userId": {"$oid": "7b7cfeedcbf963f126720b2e"}, "subscriptionId": {"$oid": "0c6a720cac2391a82612baef"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "7f2122bc686112eab4a49de0"}, "userId": {"$oid": "c9663258f03292ccf15d70b5"}, "subscriptionId": {"$oid": "bc25bafbb27378a1f511727d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "5e77a786454290be963cbc9c"}, "userId": {"$oid": "c0712e86580f0712a358293c"}, "subscriptionId": {"$oid": "0cb762a6d9e63b576b21078d"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "255dd02784a96ee4b4e2560b"}, "userId": {"$oid": "850d8d3481c4e0e7d7eadc82"}, "subscriptionId": {"$oid": "94eeede8300a3bbf97962f0c"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "43d826daf9bc010b93189653"}, "userId": {"$oid": "a34c5f040277fb30ebcbd95d"}, "subscriptionId": {"$oid": "312301ecc5cc97129528d49d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d9bb15a25de08b5498377db9"}, "userId": {"$oid": "12c5b948e52cd3a40fe30389"}, "subscriptionId": {"$oid": "2d0dd3b2ba9a624c7b5cc3ba"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "23eca71496a2fbca8df31f34"}, "userId": {"$oid": "b98bc7d5d5a144a92fb49ff9"}, "subscriptionId": {"$oid": "b001f743cc7eb9f4a1e88d45"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f252ae93436c813ae526f41a"}, "userId": {"$oid": "0ad693647ad077dcd46f9f91"}, "subscriptionId": {"$oid": "b0aaaf58b05919a368d14e9c"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "64e113441eb396fde685bf22"}, "userId": {"$oid": "1e5b06ef9fd6580c0e7849c7"}, "subscriptionId": {"$oid": "d250e958f715d2888ce4aaae"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a008dfb8be0b13e007a6d646"}, "userId": {"$oid": "51960142561e6284b99d4692"}, "subscriptionId": {"$oid": "fe0fbc548d6eecc85bf7d390"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "042a3614833d9cddf4977fb9"}, "userId": {"$oid": "d250e640f193b6fdd548ce43"}, "subscriptionId": {"$oid": "b592099e1746ca608786e24b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "790a7cd4398c777575d67571"}, "userId": {"$oid": "431e8ca8e0e68f47f30c84cb"}, "subscriptionId": {"$oid": "ccdc5de5fb4ae8def666a9fe"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4a76d964d60faa1b4a2d8615"}, "userId": {"$oid": "3062473f211b4c90ce81549b"}, "subscriptionId": {"$oid": "58e496d24de9de096de6e74c"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "658a1d21e909ed6bcd986326"}, "userId": {"$oid": "6ad17d163cb4fad07f48f152"}, "subscriptionId": {"$oid": "dcb1161670eb58da9f372167"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d08cdd2a98adf52c4a727f37"}, "userId": {"$oid": "65b3586622d981bb64278fae"}, "subscriptionId": {"$oid": "37d769e8e1e6d50baf5771a9"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "0eee3a679294aecdb48e30ab"}, "userId": {"$oid": "b6c8eda348912ebbdf034863"}, "subscriptionId": {"$oid": "77845173091ec1dbb05ca37f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "912ffb9adac3ea8fc5a8fac2"}, "userId": {"$oid": "47e2a1ff173220a2730e3cf2"}, "subscriptionId": {"$oid": "a7875e46ac82f0bfa02566fe"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5935ca62b43c26dc7101b0b8"}, "userId": {"$oid": "a7bf3956c7197a1d099beb40"}, "subscriptionId": {"$oid": "138f5717d06a7c95fe3650c5"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "53577802780f1cfeaafe1e1d"}, "userId": {"$oid": "36b933e725a4bf02d73e5198"}, "subscriptionId": {"$oid": "3ff2a1eb0828572c8ce3897d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9e7fc0ea053f4fc699e81260"}, "userId": {"$oid": "314ded97d1fa455ef3f031af"}, "subscriptionId": {"$oid": "f3f18bc929b8106bc1e082a3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "2497f0f0b60704b71ab65adb"}, "userId": {"$oid": "badbd67c6fe51154d1fdacd0"}, "subscriptionId": {"$oid": "da11c6500b03dc13b7c13fcf"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5b33981a754597e0b35f0a47"}, "userId": {"$oid": "993f5b087120e88b1a3775fb"}, "subscriptionId": {"$oid": "6dd355f4f417eeb8f903622f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c072a8a2ffe414c4ff406504"}, "userId": {"$oid": "ec63d47d9919c2d9a640b3d3"}, "subscriptionId": {"$oid": "7d2342bb593cab433bde6bfd"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3bc359cbc1fe9d50f184d737"}, "userId": {"$oid": "1d9992068fd69a3079098f6f"}, "subscriptionId": {"$oid": "ce797d85a5766b39c2140e70"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "8c3de0bb649a08e250ee8c6d"}, "userId": {"$oid": "28820d5867ea0d0da95870e8"}, "subscriptionId": {"$oid": "854e346bbe47d403ff19d1a8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c1a338cca346457c6181be0a"}, "userId": {"$oid": "28fbed948a77bc8c5f08f1ba"}, "subscriptionId": {"$oid": "01c12d7ea3dea0982207a9d7"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "2f1547d97c945308a9f0aa17"}, "userId": {"$oid": "30b8bbad4c4414c94a988f89"}, "subscriptionId": {"$oid": "409c478e4a7ba7aca766d1e0"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4d37da873eb2c265c9c1bd23"}, "userId": {"$oid": "b31077bc61625dff93dff5ae"}, "subscriptionId": {"$oid": "bc33a43b569d1328e2d8078f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a87015c7adf02169fcd3f957"}, "userId": {"$oid": "e42515cbba0d205a2280dc5f"}, "subscriptionId": {"$oid": "710d70c75458a5de6a093fb8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d8d8c843bab0e74ce137e400"}, "userId": {"$oid": "2f7459cec593465bd81a51c7"}, "subscriptionId": {"$oid": "3d3d4b6928d8705992c665e4"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "103c766a3db3e31a2cf9183f"}, "userId": {"$oid": "4890665d10589ba24bc2583e"}, "subscriptionId": {"$oid": "1cc043dc5dc4002060b8d0d3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a250bf2c849186f061f4148c"}, "userId": {"$oid": "0d70810d21cd704dcce4d7c7"}, "subscriptionId": {"$oid": "d1afd26bd48afa3eac1b3219"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "db03d22f35ba536356635809"}, "userId": {"$oid": "dd1134578768c011eccecbb3"}, "subscriptionId": {"$oid": "ec4108a109af5d6395c0e2b2"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2421bbab786aeebf97186d34"}, "userId": {"$oid": "176ada503efc1354df510018"}, "subscriptionId": {"$oid": "4f6cd137ca06fa0986b4c12a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "50b46f95dfa48ee0e2171b44"}, "userId": {"$oid": "5784a13381d1575476b4cf16"}, "subscriptionId": {"$oid": "620fa527463c2ab1d402e9e9"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a3907ff8b81018b3a523e294"}, "userId": {"$oid": "e6f2f02f8c7e25b31a602caf"}, "subscriptionId": {"$oid": "9d620142e4c434e87d2d4b02"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a733a35fb64191ef05dc4ede"}, "userId": {"$oid": "7d96eb57f975e7a969306f1c"}, "subscriptionId": {"$oid": "9943a87ac7f7565929e0ec48"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "cca233cb5a4697da1353d0cf"}, "userId": {"$oid": "98ce713fb7c5136b6b8e7191"}, "subscriptionId": {"$oid": "7c09375d05a5ca0f155be73c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ad5b7cf8bf10efd1fcce72a1"}, "userId": {"$oid": "ed0a0c6a41da7c5a3c41a85a"}, "subscriptionId": {"$oid": "39545270be14a63cef2a13da"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9b2c7ca4a97bbc9fa1fb8846"}, "userId": {"$oid": "d584a91e053540340465de81"}, "subscriptionId": {"$oid": "eb46f084e298200b06af86c1"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "edc94b609604278c3e7dfc8c"}, "userId": {"$oid": "ef752530f7b3a0843d852a71"}, "subscriptionId": {"$oid": "f6a7d95e8516e667bf3fbeaf"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "97d500c6a3f164f7d044eca1"}, "userId": {"$oid": "0cec6c621cff2bd79748ea6d"}, "subscriptionId": {"$oid": "91e2ce6aed15c762d9d9cec0"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "76bf02ba4b942750e45d43c4"}, "userId": {"$oid": "ae9cd39a5b4ca4f89697992f"}, "subscriptionId": {"$oid": "f7f273e0e46ff388d6e30bbb"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "45dbeabf1d0f2dd453142963"}, "userId": {"$oid": "9989be92cb7dc0fc4400e3b9"}, "subscriptionId": {"$oid": "24940098d77ad530d5e12121"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "47bf60b2da4a09bbc0f4b2e2"}, "userId": {"$oid": "29a357eaa08e1f5c1acf83c3"}, "subscriptionId": {"$oid": "e1fdce0e9d66cf6231c2d13c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "944e1c048189be4ad53d6872"}, "userId": {"$oid": "9663ef25ca458e36c04ef15b"}, "subscriptionId": {"$oid": "04a26fc8f093d11d882cdbdc"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "2b38cef8c532153536fbadc6"}, "userId": {"$oid": "2ae9e0e29461be8c3b880064"}, "subscriptionId": {"$oid": "02481e1b45b0e0cc57c95910"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "01228495eb6a8fd72a57ef1c"}, "userId": {"$oid": "8a0a83d82b4b14c04edfb91a"}, "subscriptionId": {"$oid": "5b8975bd5086bfcde3b7178f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "0c0dbaaba4558c498d829b81"}, "userId": {"$oid": "0d2097714ceae4d122f5ed8b"}, "subscriptionId": {"$oid": "805aeeb0be82a763c9dff946"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ac228722147f7a728356cacf"}, "userId": {"$oid": "e5cef7403ae67ea8d65fc201"}, "subscriptionId": {"$oid": "7249bb9c14b448600e05fc0e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6af341880339649e8dce0752"}, "userId": {"$oid": "7dd341fb55f7b557efdb12f6"}, "subscriptionId": {"$oid": "0e31946128198bf5f4c04472"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "6be481d4045657d8bb98113e"}, "userId": {"$oid": "41cfc1b4f9d223bd388aa3ee"}, "subscriptionId": {"$oid": "f3b6ce24c592bd99381aa01f"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "2a33a2d7d69d13b1e0b12098"}, "userId": {"$oid": "973f249b974643aa8f46482f"}, "subscriptionId": {"$oid": "6a9b0340a9eb778b95fb8d38"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "66fa8b5c50ff7fcd7a2e722d"}, "userId": {"$oid": "0a0f7ca1b5ae9457ea100083"}, "subscriptionId": {"$oid": "a77af05434b99b1ddb4e4b64"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "24f1fbb6c6da736cf379b9ce"}, "userId": {"$oid": "ab76992b773cf77226204d3d"}, "subscriptionId": {"$oid": "97915f921898c6f87b8b9e9c"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a469e570c5333d0c392591a2"}, "userId": {"$oid": "408b3319817df601452e7dff"}, "subscriptionId": {"$oid": "63f78888ddf53218def3fff5"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "17570d290aeece03c49fdccb"}, "userId": {"$oid": "8ed22af9967ad1d7894a900d"}, "subscriptionId": {"$oid": "14388e3568f13957c24a469c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "44ce1a18927760badd67b1f8"}, "userId": {"$oid": "02f6949bf61166ef5eb0acbd"}, "subscriptionId": {"$oid": "83b6da4023fdc95b501bcf0a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "478bc81440257c48e1543262"}, "userId": {"$oid": "21bfa69f9c869a0f2eae6845"}, "subscriptionId": {"$oid": "2630e30965c9a3a055b47be1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "06b2fc9fd7e9572374ad7e3b"}, "userId": {"$oid": "9e4dbe46a4383de8b1316f55"}, "subscriptionId": {"$oid": "0766ee9e5a7d688060d88417"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "798871376ab2a734188516aa"}, "userId": {"$oid": "3a1bb31246b667341996f10b"}, "subscriptionId": {"$oid": "f16b8350bcada3ad16ec85f9"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6fcab58bb2c00d523c02c53d"}, "userId": {"$oid": "647fe4e3a16f7c05e3b4ae3f"}, "subscriptionId": {"$oid": "822bc80e9de3c1d762477cf3"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a4c2959828d4054d3aeba5f7"}, "userId": {"$oid": "5636751f70205889f3f79497"}, "subscriptionId": {"$oid": "77326ec259f4b86d48cdd5f4"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "f1d6c5590fd37e9c1a5c3e5d"}, "userId": {"$oid": "dc300de01d2a9782b68e5bc6"}, "subscriptionId": {"$oid": "489a7596ec3f258855d4f738"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "715dfea49488e391479066d0"}, "userId": {"$oid": "ae4c16fb3cdade97370da8cb"}, "subscriptionId": {"$oid": "d46f87ce784131cfb747fecc"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "7fb5f2dce2288ebb81edd7dd"}, "userId": {"$oid": "ac6d92566cec07360a7c485b"}, "subscriptionId": {"$oid": "f3e052cc7fab373355e7b0d3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6d695a77a56d0d51467d733f"}, "userId": {"$oid": "f31c9285e6c282b0e5455ddf"}, "subscriptionId": {"$oid": "489113fd18b5d83b9fad8ca4"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c1925161eb2b28eee428fae3"}, "userId": {"$oid": "14f11615591f9bda8564de7b"}, "subscriptionId": {"$oid": "20d933716f3651a733187d55"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2ccdfd8da513016f5c6f209a"}, "userId": {"$oid": "bbc04f46c782fc0288769347"}, "subscriptionId": {"$oid": "eb6ad476d8d5247a764e810a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "43558293034106241199d804"}, "userId": {"$oid": "a2066727135577b82e73ed85"}, "subscriptionId": {"$oid": "d50bfe45d47ee03a66d50cdf"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "200faf9c1635eb400198663f"}, "userId": {"$oid": "f6f437bd85628b3fb4a60398"}, "subscriptionId": {"$oid": "8c634c0e57a0aa786600ca6f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d4e6c8a4e89c76c0a29b1767"}, "userId": {"$oid": "caecb7c7d32079a5aa53572f"}, "subscriptionId": {"$oid": "62db4e49e28a6e0a79adac69"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "795beb9566c9e50e3367fc4f"}, "userId": {"$oid": "f2fe57dfd59f88145b5d2fb4"}, "subscriptionId": {"$oid": "7984d81f6d45ac3dd8248629"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "bc107e1adabb0ff64022d9b2"}, "userId": {"$oid": "4e97c53426ba4f8a1bd9b86b"}, "subscriptionId": {"$oid": "f44ccc7c52c84c659a960dbb"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "52606013c2295d077dbfdda9"}, "userId": {"$oid": "a881724a3a0e79c23a3cd852"}, "subscriptionId": {"$oid": "82c1276c97e61a0fae9fd80c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "d2cbde3dad9e51e5a8707d7c"}, "userId": {"$oid": "4a581f9d2740e176d009c58d"}, "subscriptionId": {"$oid": "28062e7e792973f2d105906e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "96bba088235b0ea43cab531c"}, "userId": {"$oid": "183228d342b114f9bd92efd4"}, "subscriptionId": {"$oid": "c5a3b7242e4711cd0efd2d3e"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "aaede940e958f174038b9ea5"}, "userId": {"$oid": "5292fe5c132ba53d4390b775"}, "subscriptionId": {"$oid": "9710ecb9bc356bbcaeadcac3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "a3c628a8d37181981568537a"}, "userId": {"$oid": "3e2f34db80607b037227d9ce"}, "subscriptionId": {"$oid": "4eab48d423ad8d3fa002b3e6"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a261cf75f5d9c2363b401cca"}, "userId": {"$oid": "8abf3785efcb7ae31cc76656"}, "subscriptionId": {"$oid": "58dffdc325155e2555be5ce0"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "9ecdc0bdb77b04ef566ee97b"}, "userId": {"$oid": "68ae601510055977ed532638"}, "subscriptionId": {"$oid": "81ccc8e28d229053091c3a3a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "bf8e4cf120ba90743970fbbb"}, "userId": {"$oid": "a0a453b222816f0b1e80d4bc"}, "subscriptionId": {"$oid": "9a8ca3cda330bced97a85dca"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "46b7ed10fb739f686cf8df59"}, "userId": {"$oid": "a0a28be3940fe2dc39b8baa6"}, "subscriptionId": {"$oid": "43bbff90c0634810f4c61a94"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "0cfd6f80fcf589e9cda6e31e"}, "userId": {"$oid": "a2cb2c1c2c6b80e514b76adf"}, "subscriptionId": {"$oid": "562a88b8dddb79ccc0bdfc01"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "16230ce1693c8b8c8fbb389d"}, "userId": {"$oid": "6b9105f3cba8cd92db8eb4cc"}, "subscriptionId": {"$oid": "2dc34e71c7d04ca0b90518b9"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "9b8c38d49baa5f8cb250822c"}, "userId": {"$oid": "dd384affa6ec2d63581107ee"}, "subscriptionId": {"$oid": "b280418d73cfcba91c6d22d6"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "7bd6baaac459746b15b07f30"}, "userId": {"$oid": "852c90ff687db0a7c378a888"}, "subscriptionId": {"$oid": "59dcf6e3ecb535583e51559a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d36397d01e70bd2ad6376688"}, "userId": {"$oid": "a7a528708464634e0bb1eee8"}, "subscriptionId": {"$oid": "c11e33221d84bbbc90ca096c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "bf74fa123518e131c6cc1aba"}, "userId": {"$oid": "12b61bbab9399b03be957243"}, "subscriptionId": {"$oid": "c2f43da14d8e253e41cde276"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ea1d9cd4c8e6cdc85d8c8811"}, "userId": {"$oid": "7b74aedafe915320ae55b651"}, "subscriptionId": {"$oid": "769c57d90eae70a1392ded6a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4846b5899854eba4f954d33c"}, "userId": {"$oid": "62eb1b05fba8ac9abcc3156a"}, "subscriptionId": {"$oid": "a26952f69cfc2eb8d6ad37de"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "fa2977281374630460f30651"}, "userId": {"$oid": "92dbbfe26638bf71025128d4"}, "subscriptionId": {"$oid": "7333d2acb6366f28ac426f8a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a8f754c850be2766c01d5138"}, "userId": {"$oid": "827fc88a9970f8d309291fe0"}, "subscriptionId": {"$oid": "2f7387638699f8820c9baef5"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "4c9f6c1afb14a38ba48bf0fb"}, "userId": {"$oid": "cd827bb1c63095308d4c2061"}, "subscriptionId": {"$oid": "ce217fff9b1c9a73cda277d8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fb013eb7301e413f46859941"}, "userId": {"$oid": "18804f75d153ee1c5bb2aa66"}, "subscriptionId": {"$oid": "e8fda98977d94886de446b7a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "30729ec6a01c2cf5b9ff495d"}, "userId": {"$oid": "e1cd643a6dc8f47e35ed68bc"}, "subscriptionId": {"$oid": "ba0f0072b68a28ba3fb606b2"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "1e49093f19f9797bcdb69b42"}, "userId": {"$oid": "9318f662a6f7b6b7e5789a7e"}, "subscriptionId": {"$oid": "b7d8de965a331d641c2482b0"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d0a01b75ab8218518529afbc"}, "userId": {"$oid": "1789ce892164258df28af185"}, "subscriptionId": {"$oid": "05ca1bd469b0df43df2d7d82"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "e4bb719adb9096ec9873d12d"}, "userId": {"$oid": "5f211891d01ad539ba64e169"}, "subscriptionId": {"$oid": "47dae616a1059c6c4baadb4f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "0fe3782fb07ba7abb882a560"}, "userId": {"$oid": "aea6afbef36282c3bb2b7f26"}, "subscriptionId": {"$oid": "05c39bb68470a4bff5695e33"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "6082e1622bc6b393c745affe"}, "userId": {"$oid": "0445cbf866d6296bc19be774"}, "subscriptionId": {"$oid": "3d9899b0db9f3e9241bde7d3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "987d023e15cfbbc4892b8eca"}, "userId": {"$oid": "34ca5baa9a7c89da96872869"}, "subscriptionId": {"$oid": "0d1fc20a8214e8f07c4513d0"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "177fca553a10d10b25af07e2"}, "userId": {"$oid": "3dbd1f19cad88b14afbc124e"}, "subscriptionId": {"$oid": "9d9e7738b3c7361f1953a6f1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "58a7813b286a7909cfff866d"}, "userId": {"$oid": "675efcf42a6c1c4b957244d3"}, "subscriptionId": {"$oid": "e8736d806d725a268b50ec58"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "164c7d22e1cd759b73cadf7a"}, "userId": {"$oid": "b8e2a0c2b274f59ea92fa457"}, "subscriptionId": {"$oid": "2ba5edb691bda33c49c93501"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "af32e94c633a766e6290e1a9"}, "userId": {"$oid": "c1129424f18aa61571ef8004"}, "subscriptionId": {"$oid": "9851f0cc741ba2adf641bbda"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "1c0f6ebbae92d7e55601cc8a"}, "userId": {"$oid": "437906520a1c2383c1d629e7"}, "subscriptionId": {"$oid": "b3d5a59465a3ab20b92131ea"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2aa61574008f3661726c29a6"}, "userId": {"$oid": "85d8032052495ffbcb5e5eaf"}, "subscriptionId": {"$oid": "91cd57de0cdbf1cad2ff957e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "404c119722791d563af87dde"}, "userId": {"$oid": "0d76bce8c8a5cbf4fe50bdca"}, "subscriptionId": {"$oid": "d33b277b384771c17341eca3"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c64e74f5b715b365421fd9a8"}, "userId": {"$oid": "70a62128ea157024c0634518"}, "subscriptionId": {"$oid": "bcb15fa3eda35725ed19bdf2"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "af45026f1f81e2dcb384bb5e"}, "userId": {"$oid": "1a3baf569a618257675dbac7"}, "subscriptionId": {"$oid": "ac9e5f5abb04dcf59b53f02a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "3c05a0d24cdda8e01d7c492c"}, "userId": {"$oid": "7a0cd95950aa2dd373f338de"}, "subscriptionId": {"$oid": "9e1ba025f8470e5930efab38"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "98d884c67b0d6f2e2cd761d1"}, "userId": {"$oid": "1cb3a676f901d39354090dbe"}, "subscriptionId": {"$oid": "e51eb0e85cbfeb61f1d76e10"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b0703c3287261c1f529f918d"}, "userId": {"$oid": "790c3969c8f8861be5e11f08"}, "subscriptionId": {"$oid": "7b15ca3be2c0470925415b80"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "d74d7e14af4c62a25102d85e"}, "userId": {"$oid": "bb59615a85945ad4dbc57cc4"}, "subscriptionId": {"$oid": "dd5ececaaab28b5ed33e9b13"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "5d741aa87216e978045d47bf"}, "userId": {"$oid": "23bc75a0d945aa5a379b4186"}, "subscriptionId": {"$oid": "5f92b4b3ff040c0a2e148e2e"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "3905772995a2579d8a19d384"}, "userId": {"$oid": "6fe9c4976505cf0f492b7d92"}, "subscriptionId": {"$oid": "c9095d5aae6bbd05ffc25fb3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "f4cd25862825a63202205726"}, "userId": {"$oid": "456234c1de7fe9f22d822306"}, "subscriptionId": {"$oid": "7374c1ba094bf9166042bc2a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "35eb63927edd77c00c4c6e15"}, "userId": {"$oid": "4f28859ff14f6b261cd760f6"}, "subscriptionId": {"$oid": "19a19aae8424708ea9bedac8"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cb0e0e0c33e907f48882da34"}, "userId": {"$oid": "17c96b6137e7696946b9d73f"}, "subscriptionId": {"$oid": "fef7a8e1843da2b898339b5b"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "60737fa5385f545df6a3e221"}, "userId": {"$oid": "a2231f98a5fa11f022cafa8c"}, "subscriptionId": {"$oid": "4f3e26447bc8b9c78cd42897"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "7b11f0086e85dc839647ea76"}, "userId": {"$oid": "5db0681eb5ecd5f414a35bce"}, "subscriptionId": {"$oid": "11ee86803c8c42794f11fc41"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "7d583b0351093b7eba4cb193"}, "userId": {"$oid": "03829a8b872f802ac2eb6ad2"}, "subscriptionId": {"$oid": "35aed44145fe55d06bf88dc1"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "bc4edaeac7448ea0f68e5f62"}, "userId": {"$oid": "99091aa8dd83f5cd64c29835"}, "subscriptionId": {"$oid": "e132b16a5e3dfbcfe4482de9"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c8bb9cbfb5371fd7910b71e2"}, "userId": {"$oid": "5cb6f12dfa3a11b0452f470c"}, "subscriptionId": {"$oid": "a5c552950df998cd1ec7cea7"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5dc75d5657a2635c6d1ff9ad"}, "userId": {"$oid": "25350f69f74a37f6b5cbe3a7"}, "subscriptionId": {"$oid": "ee18f7196dad030b13c40e5e"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fa21bf52e655f256906482fe"}, "userId": {"$oid": "3bbfd466f1b3b3aff1431e9f"}, "subscriptionId": {"$oid": "565fe9719c6dbc32a7348329"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "d50a7100c52fb0ceddcc6b57"}, "userId": {"$oid": "1146ba42824fa3a7d5d7a1bd"}, "subscriptionId": {"$oid": "e86fe8e80eaf0292859e306b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "548596ec76c92410ea59a251"}, "userId": {"$oid": "805a39332cd19dc493619d72"}, "subscriptionId": {"$oid": "babee4dbf67fa3bb879051bd"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c92e78b9f23d7d57f916ad26"}, "userId": {"$oid": "4fdf59edafd3f9b4306b1fd2"}, "subscriptionId": {"$oid": "fd1cd33026cc78e32aeff8f2"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "4c568d838b12779c728df62c"}, "userId": {"$oid": "b522b394347a5c40b2b570d1"}, "subscriptionId": {"$oid": "cf9a8c534544b859d3796bf4"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "640a8ffa7c68233ae5bf827f"}, "userId": {"$oid": "09505c2b163d14e20ca76f7d"}, "subscriptionId": {"$oid": "25ad17c003fe9870aa6b60d5"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "8768366a5e6014860718b2ba"}, "userId": {"$oid": "01f778805780340c4785b98d"}, "subscriptionId": {"$oid": "01d582e851fea03fc3a1b47c"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "2e4bc858da5e904754dc864f"}, "userId": {"$oid": "ea3cd4701f3854259bfdc4ac"}, "subscriptionId": {"$oid": "023ba69dbd9f65c5da9c7788"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "0bf2c1707feada44e0b79421"}, "userId": {"$oid": "cb3fefc175842e98e6467583"}, "subscriptionId": {"$oid": "113b0b6c93d28c5cc3530b37"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5944fb39c024d500171584c5"}, "userId": {"$oid": "98e4732f0ef568a857d5acfe"}, "subscriptionId": {"$oid": "437d29f17c36ec618206d59f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c1ec3a089fc377c6add4edce"}, "userId": {"$oid": "46e1ac20841fa0088464017a"}, "subscriptionId": {"$oid": "bd750f3339298c42387fa864"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "59cae421fb21b3cd2c05ecc4"}, "userId": {"$oid": "9ef2538f634948b29917023e"}, "subscriptionId": {"$oid": "559302c9fc061b16c702b121"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ed8495414735f2f281e63e94"}, "userId": {"$oid": "c876e2f106478ceb760c89f2"}, "subscriptionId": {"$oid": "aa268a9e78d6b3bdeb80353f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "112c5f3f1b4fcbb49a632433"}, "userId": {"$oid": "b17d83bcf4bd57917c2ba1f9"}, "subscriptionId": {"$oid": "444561a4288179fd8f20fe8e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "15d7fefe5496c0bf4d34ff08"}, "userId": {"$oid": "83c78390c806d3f02fa02a76"}, "subscriptionId": {"$oid": "10cbd41b230ee42845bb7a74"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c9148973eadc78278b34f045"}, "userId": {"$oid": "ec302829dd8f7147c7d69b62"}, "subscriptionId": {"$oid": "e2930135c4507ec98dde6617"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "81f67e86954a9e4a337d684a"}, "userId": {"$oid": "daca5b0b6a60f2a5c45be632"}, "subscriptionId": {"$oid": "d279e0d50f92999dd1d8c936"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "e7d88f0859a25c1bfa4e1c05"}, "userId": {"$oid": "37f53af6ec58534db4375ab6"}, "subscriptionId": {"$oid": "190130eecd895c55c1b83020"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "c0ed13936758e62494c7e467"}, "userId": {"$oid": "612dfe7650a9651ab2c8a48d"}, "subscriptionId": {"$oid": "759c681aa14b65e88b0616dc"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "afa9d8dd213688b70fd0ac5e"}, "userId": {"$oid": "8a278096aadcfe7a920e62b8"}, "subscriptionId": {"$oid": "5ae3a066d34976ae51938c3e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5f42459887bdc5e252a1bd3c"}, "userId": {"$oid": "10455c5dd872c2dfa69ae738"}, "subscriptionId": {"$oid": "4b3fe6f9b0a41ae80c84f5ee"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5c5cfe0e9badc9b74d0f5fe8"}, "userId": {"$oid": "a9d82ce76e74b9c4c3baa738"}, "subscriptionId": {"$oid": "9dbacb1356a23260eecd3b58"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1717a478c672fe8a9cf65967"}, "userId": {"$oid": "17c298aea5ebddec4764c937"}, "subscriptionId": {"$oid": "6698bd1389b622697d0616f7"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "51e6981b823d25ed7fe8278b"}, "userId": {"$oid": "66dee5ae01f68b5abcb37825"}, "subscriptionId": {"$oid": "9131ce6809c0c0e0f578cd9b"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ca53d4f9c8cb7200534a7ca2"}, "userId": {"$oid": "22ad3b9f8520cf921b9ba231"}, "subscriptionId": {"$oid": "b258a9178205770c88ef5025"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "e6f4df7a91499bedac6fbf56"}, "userId": {"$oid": "c3165dfa70e17285040d83f9"}, "subscriptionId": {"$oid": "364ff0711db8e8ad9f4314b6"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "0ba034b11961f91ddfd1e93e"}, "userId": {"$oid": "6dd97f861d9d96df2917d133"}, "subscriptionId": {"$oid": "9aba80e2553707ba39a24b4e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e3bf7da8d0cad0a79e7a1d4d"}, "userId": {"$oid": "894c3c60f0be429615e69d7a"}, "subscriptionId": {"$oid": "9335d9db5f7ee873fe55b8f7"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "823e8afbe5dd8b43d09ceef8"}, "userId": {"$oid": "4ad03e81ad35a5b5906a94e5"}, "subscriptionId": {"$oid": "98dd9e3dd72b69d41c80135a"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "3c997473eb5b958ec28cabfe"}, "userId": {"$oid": "a0e0ffb57a3b4d1526968496"}, "subscriptionId": {"$oid": "00810b7ebaf77859b04da529"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "59ff4e08c45c89b40f27bba2"}, "userId": {"$oid": "6d3d2faab2ae6b41f3355676"}, "subscriptionId": {"$oid": "95cea3cae66a880a3914b827"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "746587a9e5a126dbc2fd7e4a"}, "userId": {"$oid": "447f93a7639edef1aae27e4a"}, "subscriptionId": {"$oid": "bdd410c38df27a28a8516304"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d7bc13bfd96688e2a63b061a"}, "userId": {"$oid": "6abfd28b9504900da2861c73"}, "subscriptionId": {"$oid": "f818ed3b6406d389410023ea"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "dc0cc576d5487805d99f1061"}, "userId": {"$oid": "018a0474402383f7da7939e0"}, "subscriptionId": {"$oid": "ee6b0cc5646651499d222058"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9408310c9216cf8e306c3f56"}, "userId": {"$oid": "be06e72060b35bbf3269a5b4"}, "subscriptionId": {"$oid": "5545e8ffd94e60f9716a3b02"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "186e43e1f7af9d080f1034f4"}, "userId": {"$oid": "b570a9f814e2c2c77ff59460"}, "subscriptionId": {"$oid": "0754ef21fd4838043ed26ff8"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "2c91e8ddfac0250e958b1d51"}, "userId": {"$oid": "3283b117d5e6bd9dbdcb2335"}, "subscriptionId": {"$oid": "4451d4a39666ff05075840df"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c7de1f2047f140039061ea5a"}, "userId": {"$oid": "92c30551fcc0997f13d75351"}, "subscriptionId": {"$oid": "c0c23399f93bd0b670a04ba1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c32ca05442a508d91b7da675"}, "userId": {"$oid": "4752127f98946ca94d6c8c19"}, "subscriptionId": {"$oid": "2d98d6872fd05da110d13c46"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "0cca57fca6d7d94e24561b42"}, "userId": {"$oid": "de69e466a969defe94abcbb1"}, "subscriptionId": {"$oid": "75ec824c292c39d241988781"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "f2c0df3283da66aa470c3c28"}, "userId": {"$oid": "392a67894723501f64b33d70"}, "subscriptionId": {"$oid": "b7e7faa0cf0218eac05f08eb"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "da767b5ed45e02a452577929"}, "userId": {"$oid": "ace4eee924799d24cf449885"}, "subscriptionId": {"$oid": "5ec78bfafbb36f86c756a642"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "001a8d087d932317e7da1eb9"}, "userId": {"$oid": "7922bcb3b3a2e08c1c709d7a"}, "subscriptionId": {"$oid": "20227c6ed07562f3d3aef5fc"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "483bc6a990c4d379c763357b"}, "userId": {"$oid": "886f77f0836de27be1a86dec"}, "subscriptionId": {"$oid": "678d048cbe49fe1281669487"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "54ce07aeced290466a128dda"}, "userId": {"$oid": "1b367fb04b7e51cae5cbb397"}, "subscriptionId": {"$oid": "40eb1afb07a8d20978deed07"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "b5ba62aec63e85a92fd14f96"}, "userId": {"$oid": "2166cf83672ad515758e49b0"}, "subscriptionId": {"$oid": "862083cc219a06f8c088142d"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "017e6ef28909ae814ff232e2"}, "userId": {"$oid": "6ed4c037673f9704f1e52915"}, "subscriptionId": {"$oid": "664682b96a2f82d2a254c1f4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "a35df0908e956816ab0052b1"}, "userId": {"$oid": "0f81f8ca106d19d8c5e4af91"}, "subscriptionId": {"$oid": "8d60cd5e7d1af1f4fe1b2934"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f7b53bee47151ad278f0c16d"}, "userId": {"$oid": "9e949c7e73393678713e9d21"}, "subscriptionId": {"$oid": "701c4cc5f7be71cece7b6b5a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "5c7be2710efd92f0e75963ef"}, "userId": {"$oid": "fc78a503c9a895c874e16b57"}, "subscriptionId": {"$oid": "6ee8b6c2571af80a03e0d12f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "3b0ecc7fc2ec7d7958dda90f"}, "userId": {"$oid": "e7917f60d6c01f073f998dd0"}, "subscriptionId": {"$oid": "e9cd5f0019e3dcb606177139"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "b92b8fa7c5d0651c1cc50200"}, "userId": {"$oid": "6354dffd6f58133c4e76e9bd"}, "subscriptionId": {"$oid": "8523f713141ba3b3f503ee21"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4e3a5b4228192cd4283a294c"}, "userId": {"$oid": "fd366fa0ffd7dab204d581c3"}, "subscriptionId": {"$oid": "ef7ab321fff422373faa42a1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "aa68ee7a40f4d0aa05a14a3f"}, "userId": {"$oid": "83394b19ab2e9fd2b69adb2f"}, "subscriptionId": {"$oid": "5a0247166e6361955adbe91e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "780114ebf0d5b94a2f828d77"}, "userId": {"$oid": "93c6fc92f5dfc35a1496ed78"}, "subscriptionId": {"$oid": "120fd178f8a3b5bce2f97a94"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "62a5c95617cbf05f4d901a5f"}, "userId": {"$oid": "07b0adb30d5f9a8e61de5152"}, "subscriptionId": {"$oid": "d328b6bdb542f3713bf6f006"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ba0f44b26cbb4f63f3644c79"}, "userId": {"$oid": "fc07b8fc0fd8bf34baf2ee9d"}, "subscriptionId": {"$oid": "fcd6c5574d25d29c70495009"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3b642de3bb6ee620e7f8abb1"}, "userId": {"$oid": "5eaaf9e32210f0941fa92922"}, "subscriptionId": {"$oid": "6a55ffdfec1559f61c33398c"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "00824de831dc255df4676042"}, "userId": {"$oid": "028e87783077171f73c4b8ce"}, "subscriptionId": {"$oid": "6f796613a18af1fd5676e8d3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c8db2f2de220ac20eb077c3d"}, "userId": {"$oid": "2463fb354d8ab20163e8c2ad"}, "subscriptionId": {"$oid": "8c12db36a2da649fd7edf4e7"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "997d6a24ffdffe2039197b2a"}, "userId": {"$oid": "406819cfe30667fa3bb45db4"}, "subscriptionId": {"$oid": "e074c6582605395bf3fb0b48"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "f00667bcfb68ec273dd1fbb5"}, "userId": {"$oid": "599804be8a26b35131ee427c"}, "subscriptionId": {"$oid": "95c9b563db090fc4f4316ac9"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "dd11720032bb698339bad57e"}, "userId": {"$oid": "1155c6c790733d3efdff33de"}, "subscriptionId": {"$oid": "dd9f893797b778b2325bd571"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "bc475138644d7543fa2ca596"}, "userId": {"$oid": "b2b4326ef5f8d0229f9628e3"}, "subscriptionId": {"$oid": "4590e3eac623e90da6d26cfd"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "41810b06d32307f0e0207cde"}, "userId": {"$oid": "f0078f90f24f65e8aad62a61"}, "subscriptionId": {"$oid": "88c11e8bfe058f229cae341f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "40e8a597fd27444f530b88da"}, "userId": {"$oid": "1bd6fe1d09ddd7606ba91aeb"}, "subscriptionId": {"$oid": "b224b2eb31837b60515f6fd1"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "88c052b00bb21e0f69f3f5c8"}, "userId": {"$oid": "b5da38710ef34b8d20223087"}, "subscriptionId": {"$oid": "3ba867f8f8a524644f06d9f7"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "446693e59e855b609a8493fa"}, "userId": {"$oid": "5138eb3822463ed4abf19002"}, "subscriptionId": {"$oid": "ce6ff3a444f62f3f73ecf2fe"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "9a981dccb50729ff9d9f6217"}, "userId": {"$oid": "8353914d86cb9e3209184ed9"}, "subscriptionId": {"$oid": "89b52ac3da2d91e2d75364fd"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1bf20e78df599c00b6d3f664"}, "userId": {"$oid": "718bb56ee43254ecfbf9b95b"}, "subscriptionId": {"$oid": "a61ab3f5890643150f1da467"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "9fd8a6dd431e60bc03b85f62"}, "userId": {"$oid": "3c88832dc5ea92c6dd106ace"}, "subscriptionId": {"$oid": "02d34425216fdf400e0e04e4"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "82bda77b7e91e37045976986"}, "userId": {"$oid": "dc9df3bdf0394cd3be1f282f"}, "subscriptionId": {"$oid": "2948fea0ba19232a831412f6"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f08db549acb983a12577bbd8"}, "userId": {"$oid": "a5adf2b489176f381a6c1238"}, "subscriptionId": {"$oid": "1d92540825dc65d63dd5acf8"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "75ad9a7ec2bfb47bf5f097af"}, "userId": {"$oid": "5633900355a9b3378e304b02"}, "subscriptionId": {"$oid": "bc2b23441498a1dcf8843a49"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "f446291dff179ba1e55ac037"}, "userId": {"$oid": "013021357e27af9e8dc80d8f"}, "subscriptionId": {"$oid": "4d4caf7f7dc88a1937fd60be"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "02d38b62627b34b1e66dffce"}, "userId": {"$oid": "19a0ef1e28de2ab61c9cce29"}, "subscriptionId": {"$oid": "3b9331511225397d416f59fe"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "7fee1ab25243130244682c6c"}, "userId": {"$oid": "259922c319eead9e8aa735c8"}, "subscriptionId": {"$oid": "c5a90d4f26f07108552bdaa9"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "edc2d48fd1fe1627689b850b"}, "userId": {"$oid": "2daed4fff7a3d63c2e56645f"}, "subscriptionId": {"$oid": "d8025937b648c83f798f8818"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "67f9778891b09a02bd4ea620"}, "userId": {"$oid": "65fe553551d74f6dc1f5430f"}, "subscriptionId": {"$oid": "b19d19bac3aa26d915269155"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d15c52e42f8cef5876f4471b"}, "userId": {"$oid": "b8374123e4a9b9a4cf9c6442"}, "subscriptionId": {"$oid": "134bfe80f729164e3bce6ece"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d54b56446419eb99b30bb089"}, "userId": {"$oid": "9f854237e4780d0fd4ab6e08"}, "subscriptionId": {"$oid": "8b564161c82fad04916b3d08"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c6fba45fbb43e7d12ccee7ba"}, "userId": {"$oid": "55e8779b1bd826e29fe6703b"}, "subscriptionId": {"$oid": "20781f1eb35178eed9cb582b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "e2138fbe78fcd43194a1c1b9"}, "userId": {"$oid": "3b5199b1f4d6221ff93a5c6b"}, "subscriptionId": {"$oid": "fea39c10d3a1b01e04f634fa"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "dba8e71e3fff8b2c62b2e6f0"}, "userId": {"$oid": "b050c0b70586503d6c6cbf23"}, "subscriptionId": {"$oid": "da08c97dc43757a401641148"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cfb1f7decbf591e807873e5d"}, "userId": {"$oid": "662b88dfcd1d3870175fe259"}, "subscriptionId": {"$oid": "fac6be17a75506c8419b8a5b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "87c8944cadd609959a42eb38"}, "userId": {"$oid": "f2837d545ae0032e3a7a9e0c"}, "subscriptionId": {"$oid": "8161bdf49a1b93cb682e15c3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d7ada655bc87e15c5a950ae5"}, "userId": {"$oid": "e950670976f9ef0c96e40037"}, "subscriptionId": {"$oid": "f68076d9e76b1a2e547b18a8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4c307ee04b3dbe52c329fe4a"}, "userId": {"$oid": "95167212949dce93f8e56a5a"}, "subscriptionId": {"$oid": "4ff2548bf25e302498bdc084"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fe857cf9b0e46ec151b79d05"}, "userId": {"$oid": "628f09a38b8e3939ecf3d5cf"}, "subscriptionId": {"$oid": "a8e95afa67455de496924ded"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "30cbfe9d4a7fc3e1eca956ec"}, "userId": {"$oid": "47d70793dd690cea6be95ee9"}, "subscriptionId": {"$oid": "385074d1798a623b9d09b251"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "0320d091e667cc5b1f2b45ad"}, "userId": {"$oid": "afda85318c40764e176bfa90"}, "subscriptionId": {"$oid": "8daec08cfd605803f3b6980d"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "6fc03abe26ac8c3cf6b12632"}, "userId": {"$oid": "55f215e71c2353a843c9ac5e"}, "subscriptionId": {"$oid": "b3f3347b2028a06e5999241a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "13de9f11da0cf5f8939f5051"}, "userId": {"$oid": "cc7294a57a1bbc8ac63f1630"}, "subscriptionId": {"$oid": "d56245b447f71b56998e6095"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "97d0a6a20df4ba7f482d1604"}, "userId": {"$oid": "9d5c0b52b16ef57ba740fcb8"}, "subscriptionId": {"$oid": "4ce994e5f978c74002c8d038"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "7c5704effdb9ab2178adc64b"}, "userId": {"$oid": "d4a3844d58c967e4c8cff295"}, "subscriptionId": {"$oid": "e4346b2d2fe95fddcb698810"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "ddf17c31531a55c3c761a10c"}, "userId": {"$oid": "31cd016823568086506de225"}, "subscriptionId": {"$oid": "76d9f3a4158c6474302bcd06"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "3117c724cba4debfe403c13b"}, "userId": {"$oid": "ffd8d1af0766611f34676e50"}, "subscriptionId": {"$oid": "b44d1d8e5fd6274b614d564f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a74d5316d7d1c77bd8a66444"}, "userId": {"$oid": "153d7d311e4c6bda1634c9d8"}, "subscriptionId": {"$oid": "a86400173203bd2ccfbf0b9e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "899f82f275cce3a62bc6e8d5"}, "userId": {"$oid": "04c485d55c3556a72f804790"}, "subscriptionId": {"$oid": "a0e54d756aa34258905e492e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "db137f4d4d1e5f6ea1035f6e"}, "userId": {"$oid": "fa20787ce28a328293121bc1"}, "subscriptionId": {"$oid": "7abce2bf6ded0fa3f23b5955"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c16fc12a2dbe1449f8e5467e"}, "userId": {"$oid": "d89c67d26bddea342140606f"}, "subscriptionId": {"$oid": "c4c129037d5cbea9952053db"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ad0f4306212101f57a692092"}, "userId": {"$oid": "e27f8e51f762badf3020e0bd"}, "subscriptionId": {"$oid": "52bc1a0e108b38bbc7bae1d1"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "3e09d6efe004dbed6821c4e4"}, "userId": {"$oid": "50795f848305d5bf27367141"}, "subscriptionId": {"$oid": "822aa39de32ff8b093957153"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "b046fbf8d153bbaa145c8d2f"}, "userId": {"$oid": "714e3b246d53045132028229"}, "subscriptionId": {"$oid": "4d676b8b4d1388a46667dc1d"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "bb57613cba17b6064decbf12"}, "userId": {"$oid": "5ac517145a60ef5c817045a1"}, "subscriptionId": {"$oid": "d23afa91b6faf1d7517c4897"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a01c9918857d7f9bd10c3d8b"}, "userId": {"$oid": "26075311095cb0d41eeb468b"}, "subscriptionId": {"$oid": "b15aee0148c41b0d039999e8"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "26163f8abd27b8da038e500a"}, "userId": {"$oid": "e6c2e441fc393def2ef0604c"}, "subscriptionId": {"$oid": "2f2a7ef4f2e711401e9c085c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "7ca751e16fb15f80cb870ead"}, "userId": {"$oid": "e70cf83b46e29655acd7f1c8"}, "subscriptionId": {"$oid": "5fb33919428a4a61ed8ebb2b"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "0e74288f814b8a3473608619"}, "userId": {"$oid": "218f0b9a3cfa91c1d9e72173"}, "subscriptionId": {"$oid": "e6637c68428706657a07c4a1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e67ae15d8d27c5e0d2623eb3"}, "userId": {"$oid": "8b288c0647e95d3676c40955"}, "subscriptionId": {"$oid": "25b92ea9939e2845dbc85f7d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "7508893d74eb2bab24dd3e34"}, "userId": {"$oid": "7ff2f8aa89673c6a890a80dc"}, "subscriptionId": {"$oid": "572bfa107640d6af30536b54"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d2b8c0e4d931c666439d0ac2"}, "userId": {"$oid": "539535873a631b5b7b79cdad"}, "subscriptionId": {"$oid": "c52afbd24f99e49500345e8c"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "b02d666ce899fb02e7b9dc6d"}, "userId": {"$oid": "6e879edf171e0303334d68c0"}, "subscriptionId": {"$oid": "86ea26fc38ff5e8f509e3005"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "05bd275dcce9501a56f812fd"}, "userId": {"$oid": "c05677f01b5a9836d95a6c65"}, "subscriptionId": {"$oid": "5bfb3a7e6711c59733c64d82"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5346c1320528b794e6ea178e"}, "userId": {"$oid": "3cf4946ef6a523544e59e32e"}, "subscriptionId": {"$oid": "d672e88c2183c020a9f28ef5"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "dfb0e805bab0e77d57a112eb"}, "userId": {"$oid": "824bf796bff1fef01fc43373"}, "subscriptionId": {"$oid": "9fe117c17039c7221954efe7"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "2755b0e5d0c4021c8912d998"}, "userId": {"$oid": "07b47c85e065242d8b55c837"}, "subscriptionId": {"$oid": "b13c1e136f1233aaa49a7cf7"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "82488a196d3aa11984cc4d86"}, "userId": {"$oid": "ab32c414ee699c9173521718"}, "subscriptionId": {"$oid": "b41ce0b2a984a6796d42384a"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "3c33d7610af671930de1755c"}, "userId": {"$oid": "087e067cddc995d58c46d906"}, "subscriptionId": {"$oid": "34489be18354dd70a194c922"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "8886fd69f30643009c7838a2"}, "userId": {"$oid": "27ef74d9d73fbc35873d2f5d"}, "subscriptionId": {"$oid": "f62fe56f504610a9bdfe526b"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "b814f084c9abaf2cf52c9db3"}, "userId": {"$oid": "e41d774fcbcd8dd06f9fdd17"}, "subscriptionId": {"$oid": "ccb8a74671fed7a9fce83090"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d89e72a38ad78ab382c2f715"}, "userId": {"$oid": "18ba919c6a7470f2916bab18"}, "subscriptionId": {"$oid": "2956dc77532945c7bd3cb6ab"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "2734e9fa3d0531804a4824b2"}, "userId": {"$oid": "50f0ead2fb53a52e9ceb7ee4"}, "subscriptionId": {"$oid": "0343c252d7190a81843fb095"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f70caeb007e1ff811318466a"}, "userId": {"$oid": "c103474eee16159e7174d83f"}, "subscriptionId": {"$oid": "989318d370b6a97f2ec5dae8"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ee7812d6155923b2f1feb354"}, "userId": {"$oid": "34086b79d0fcdf6bc217e644"}, "subscriptionId": {"$oid": "417161ef0d9374a5f4911f6b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "87e6e8fa4b162e40dd5c0e16"}, "userId": {"$oid": "079b3b92379c1f3d91565353"}, "subscriptionId": {"$oid": "18d79916b0b9bdd92d8ec216"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "38c03eeaef642f8485a451b1"}, "userId": {"$oid": "2b100614454898c63e372ffb"}, "subscriptionId": {"$oid": "2e599d51676738b78f56fbe9"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d40d741bb8b4a5956611a283"}, "userId": {"$oid": "a597e76eeedc01f990a193f1"}, "subscriptionId": {"$oid": "34a398f212d58e4d6a1c9915"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d0d7955f60849aaaff64b5d2"}, "userId": {"$oid": "263559ce75b12f24605895a1"}, "subscriptionId": {"$oid": "87bdcae56f3aaaa9cc7ca9b5"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d38cca9eab3835f649ef9315"}, "userId": {"$oid": "d2a4fc5e3626e3e55f15cfaa"}, "subscriptionId": {"$oid": "20bdfb8c17e226bb8af52fc9"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3ac8ecfdd959bcd249ce2509"}, "userId": {"$oid": "429d6471cc48fbfa513b5dd9"}, "subscriptionId": {"$oid": "fd460454732ea6fba4e9d12a"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "7fda22a62d04c04507ac35d3"}, "userId": {"$oid": "84859ff02eebb6f56f851780"}, "subscriptionId": {"$oid": "f41e19545fb132c7e1dc61eb"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "40760a392e3118e71c3c0043"}, "userId": {"$oid": "b3c6dc06c04b87b3274c505a"}, "subscriptionId": {"$oid": "1153973c83dd468794259e58"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "0798cc96b42404256f961738"}, "userId": {"$oid": "9a01f0a479ecd7616e713b8b"}, "subscriptionId": {"$oid": "4cd55704bb9b8787d73b48fa"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "77040a960765c2fba1fcfafa"}, "userId": {"$oid": "855a0679e4d1af8a465c24bb"}, "subscriptionId": {"$oid": "ec6e4b718ce29e6b8317aa44"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "9092915bd8aa74eeecd8bc1f"}, "userId": {"$oid": "bc00b164e1ed00cbba0e1ee6"}, "subscriptionId": {"$oid": "a0ba8848a1c95207bd825fe7"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "5e8d53b5fd2a0299c7b5a273"}, "userId": {"$oid": "11ed7c45a9a804616a7db46c"}, "subscriptionId": {"$oid": "d2b46903a7ea0b0cd7ce0a1d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "f3f9b2b7d355361dee4e69e4"}, "userId": {"$oid": "05327d9bc9ec11fe660f1250"}, "subscriptionId": {"$oid": "728b54f940017a0718b3282e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "5f8f5b520e5219b68833bb2d"}, "userId": {"$oid": "348dccd3d05f09972cb7e2b2"}, "subscriptionId": {"$oid": "2b234759da8bbf8ba750af12"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fafc20adc5620f58dbdc4284"}, "userId": {"$oid": "bddcdc91e6081a899e5bb546"}, "subscriptionId": {"$oid": "73bc0a8a4c14dd0856069c69"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "eccdfc0ac2dcb07de01d8340"}, "userId": {"$oid": "2f3963dd08c17309a6b65393"}, "subscriptionId": {"$oid": "4f4476fc612285c20fba91e5"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "06c044177e17a213e9f05583"}, "userId": {"$oid": "d997eebc9067c4f2c6323327"}, "subscriptionId": {"$oid": "3c45d2484dd5f52402f31972"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1c2926142dd08dea4b93ba91"}, "userId": {"$oid": "012c1e62d20975581f0fd21e"}, "subscriptionId": {"$oid": "5a927f365d7948b295264425"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "3496e9891278ca17cde15717"}, "userId": {"$oid": "9186ab0c04bb006d17e570e0"}, "subscriptionId": {"$oid": "ca0f38d88c21059d244e34ac"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cb385515d89f398ab64bdb83"}, "userId": {"$oid": "c222f54d8d4221110aa6af47"}, "subscriptionId": {"$oid": "c324c257df231da2f73d1997"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "aa883899cf78700de0749bb7"}, "userId": {"$oid": "ade874db7d38a7c1855fe384"}, "subscriptionId": {"$oid": "1fa50fad1f28a24a239df805"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3f16fb2f4ef4eaa402d06719"}, "userId": {"$oid": "cc0e9dc6bcd7ccb812f1bd3a"}, "subscriptionId": {"$oid": "fe0974d41c49542a588b5fe7"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "3b18f388539f07b28e5eb095"}, "userId": {"$oid": "ede31d8657382d93c7169244"}, "subscriptionId": {"$oid": "3a549b391d1a71f208153c35"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4a684965d3a8863d766706a0"}, "userId": {"$oid": "2aec25db0d6d4c60e872eaa1"}, "subscriptionId": {"$oid": "45499e7e2367322718794b92"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "46571913c01d51d33523d950"}, "userId": {"$oid": "1becb2912cd5bf79c23dcaf9"}, "subscriptionId": {"$oid": "e432985c429506055fd21bfe"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c4d2afbbb52339d196420c54"}, "userId": {"$oid": "ff4fab8794e73ad05d798fe8"}, "subscriptionId": {"$oid": "e51ac4fa9975c628fe7abcc6"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2fa705dea0bac5df7833dce3"}, "userId": {"$oid": "65f23d51189c5c83dc28144a"}, "subscriptionId": {"$oid": "b72453c947b48000c9bea53e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "2a9639b5bab2bd95119a8ade"}, "userId": {"$oid": "149d46f9a7077c18f6c5cec7"}, "subscriptionId": {"$oid": "a86f7a293e8feeba11408dba"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a5c88ce3510bed05ee2919b6"}, "userId": {"$oid": "f4810b11cd6d39176d87aade"}, "subscriptionId": {"$oid": "2aacb441563a4658980e521a"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "415c0c0f25ecdc8b80e104be"}, "userId": {"$oid": "1412385cca126000e6ec28d4"}, "subscriptionId": {"$oid": "42ab6783bd465b5946a5158b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "535c97cc85182348052aeb70"}, "userId": {"$oid": "1980ba3c20c40643bf297af7"}, "subscriptionId": {"$oid": "97b6cadd55b0a658b506dde1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "eacdc25537f331a99c508776"}, "userId": {"$oid": "23df510a88fb223f515f65b8"}, "subscriptionId": {"$oid": "5ce30adef3b4e31c34a19952"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "ad5c4a0fba7c49593968ed8c"}, "userId": {"$oid": "b66d538153e6aa0b30e9e937"}, "subscriptionId": {"$oid": "c989cf0d4f0ca52f3beb335c"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "87f0cdacb3c794bc4ce0880a"}, "userId": {"$oid": "cfcfe859c7c55f784db93151"}, "subscriptionId": {"$oid": "76a87fdbfe7059b9927b447b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "92ab43698ceb736675dd33e9"}, "userId": {"$oid": "ee7043e714afba1c0d04da67"}, "subscriptionId": {"$oid": "2a905832cbaa731075668368"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "d83d08491610ce3b1d94438c"}, "userId": {"$oid": "9bab3a97424ad67374605320"}, "subscriptionId": {"$oid": "ac5ed467b747d0904cbaea0e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "1549d351d8a70c2609abe8a2"}, "userId": {"$oid": "e74166be7209d4f700fe560b"}, "subscriptionId": {"$oid": "b240bd38adb6209cac8238a1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "759cbeda18c93ff3ff29402a"}, "userId": {"$oid": "834d55c44694c0f49850773c"}, "subscriptionId": {"$oid": "aaef5d88d08c873262cffdc9"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "35f984add9e765d4f8537366"}, "userId": {"$oid": "0bd1eab2dab930ede7b5f325"}, "subscriptionId": {"$oid": "4c9539babe4edb19ae8d6d69"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "292d0d87bc61c2d38c3ce17c"}, "userId": {"$oid": "a1f86e9ca3a35abd51e09a6f"}, "subscriptionId": {"$oid": "d5199d0f2cdd8ed487bdc220"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "113c5e3ee1d547b79a171aad"}, "userId": {"$oid": "befbe6ebcb90a5e0d17372ed"}, "subscriptionId": {"$oid": "0849e0a228caae32339a6ed9"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "25f7a73fce8415228d99256b"}, "userId": {"$oid": "9cb16a4cbfc4e95b6df4a363"}, "subscriptionId": {"$oid": "95c62e54d7287f34587962cc"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "1eda2fca67f4065a8be447b7"}, "userId": {"$oid": "f0b80cdacb5847e1a569ffee"}, "subscriptionId": {"$oid": "d3fa73347ed94bdbcb39b3d2"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "cd4810966a028478747ef8f6"}, "userId": {"$oid": "e0e63a7b153874a59204b8ab"}, "subscriptionId": {"$oid": "f8dfd78c637ccba3661d583e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "b217c8635eb1538297c41493"}, "userId": {"$oid": "ea371fc9e8a6a78e14daf356"}, "subscriptionId": {"$oid": "bf8aa37b86611b3b2ef498ca"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "082cc70133478c4c23ae8a68"}, "userId": {"$oid": "64138d72b51cbfd0364c2f20"}, "subscriptionId": {"$oid": "54c1e1aa74e2f460eafde6f2"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "d7012ad6417a8b0f99b13ecb"}, "userId": {"$oid": "34436e8bb1c55ea34f96e225"}, "subscriptionId": {"$oid": "019fa48fab769ab1223d6f25"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "a3717b4cf10cf136579146f8"}, "userId": {"$oid": "8eeb056c3dfbe1eb63080940"}, "subscriptionId": {"$oid": "3a3ebdef5f10031c8a6ed9df"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "87fce2c741ce8bcf20530e78"}, "userId": {"$oid": "12b24b97ab521b3a38f79931"}, "subscriptionId": {"$oid": "53fc87089ff9a70ae29359a4"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "82245787d8bbf8487a317ce7"}, "userId": {"$oid": "7f8bcb0013a31505d64507d3"}, "subscriptionId": {"$oid": "906c275a644198867df114bd"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "8a3825c76ce6af6803cc908c"}, "userId": {"$oid": "aaa07f7ebc12240d08349666"}, "subscriptionId": {"$oid": "314e8404f6cc79404b0c6520"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e90b98f70c6d60349ae2454f"}, "userId": {"$oid": "aabdc588472f0a106ecabbeb"}, "subscriptionId": {"$oid": "591d3fff74305763a80cdf2a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "539e0e996364d55c7829e091"}, "userId": {"$oid": "5b3f14edb3471b267493a504"}, "subscriptionId": {"$oid": "1524ccafba6559d3657c5360"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "4ac4ee571700e5d5d15a9404"}, "userId": {"$oid": "c38262a31d3e49ea44cad2df"}, "subscriptionId": {"$oid": "f48616819bb4ccf9bd07377d"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "1f6a368c59a80e2590a2ed95"}, "userId": {"$oid": "d3d329aaf5df1e65c661a760"}, "subscriptionId": {"$oid": "d0677111c16170a421de4761"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "14348cf96156b9a4f85e0ada"}, "userId": {"$oid": "e2093b5609818c9332fe8d29"}, "subscriptionId": {"$oid": "4ef23916c13e20e9a6397b6f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "b7883fbc09efe5e21d893d30"}, "userId": {"$oid": "dcde70f590b3a62bc8ab34b1"}, "subscriptionId": {"$oid": "05a03aace90d430da89f1ec8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fda5ce3e7099a175d0a0593c"}, "userId": {"$oid": "4338bfb3035de4025ba2ce96"}, "subscriptionId": {"$oid": "c00d4682b80dbd464680c737"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "c848f465a2d77d7bb0ad2e95"}, "userId": {"$oid": "dd27b86ac48e070f3e087d75"}, "subscriptionId": {"$oid": "00d5abc8391ac6144a2de06a"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "26a856d3bc1bdaccf696545a"}, "userId": {"$oid": "be459e6d372a3be1099e8311"}, "subscriptionId": {"$oid": "e3a0ddeb79b935cef99c19e6"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d444b3d7a280e7e63e7441a2"}, "userId": {"$oid": "b81360fa8130c8aa3c0da717"}, "subscriptionId": {"$oid": "e300b5079ad0e3a4ca32b50f"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "5b9cca2c2af1ac3e9fd70f46"}, "userId": {"$oid": "1b52703a07357748563add06"}, "subscriptionId": {"$oid": "8593b902b51e7bde3ebd567e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "dd35bb9d42944e5805bf2441"}, "userId": {"$oid": "dbb362d43cd5314074415339"}, "subscriptionId": {"$oid": "b0e1d9837dde30d3da8a8265"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "88431dd624d7d8c19c7e8fe4"}, "userId": {"$oid": "3616fd8e838b5a07982dfd63"}, "subscriptionId": {"$oid": "735fea94d566a86711cc152f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "4356229ee7820ceb427a646f"}, "userId": {"$oid": "4743b46d4ae5e62521886542"}, "subscriptionId": {"$oid": "10edba97c1f89357f62440d9"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "20b61a45df673a570f6efd5d"}, "userId": {"$oid": "ceff0c09a1b7fd771ef69e8f"}, "subscriptionId": {"$oid": "5a3039fdd10d10f7fa400d9d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "14d1d478f263c8335c041860"}, "userId": {"$oid": "d515239baedd22cb32325109"}, "subscriptionId": {"$oid": "a27d01d21ff630e76eeec623"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "f608de3d58b9d6cab254a0cb"}, "userId": {"$oid": "d9e4912689b2e3680e2d62c1"}, "subscriptionId": {"$oid": "28e61c2c9ad2c8bd91e175f6"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "849eceb0e6c982dc24e8b8a9"}, "userId": {"$oid": "e5f994b65be1166140ab89a2"}, "subscriptionId": {"$oid": "88db315097c056fabdd92dc3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "1b711c2c7afe535e5357a6ae"}, "userId": {"$oid": "76fdd9f51df3a1882499f94b"}, "subscriptionId": {"$oid": "c7d0f401f04dc1435d2491a4"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "0c33a4e420dc0fc385d0c910"}, "userId": {"$oid": "7b0e5c59d1c116d2da4cd5b2"}, "subscriptionId": {"$oid": "a6793b30b519d24ff81bac56"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "6e36773224a30ddd7a1750bd"}, "userId": {"$oid": "6319a06c7bb1f1a3af45c936"}, "subscriptionId": {"$oid": "c4195b42e9409677f40ce88c"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "fbbf43d940a8fff7249ef88f"}, "userId": {"$oid": "91a53d7a68a61586844a9685"}, "subscriptionId": {"$oid": "386d55b99bc1a2f98d159bf9"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "8e51aaee0d2426432970a0f7"}, "userId": {"$oid": "33a8ea592643bda297d05130"}, "subscriptionId": {"$oid": "2dd9c84cef5fd58a5a68d23a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ed1a45ab139bab1ca0beb233"}, "userId": {"$oid": "637567421fd99dd7f293dc8c"}, "subscriptionId": {"$oid": "f13e472b15172fac193858b4"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ed348de6a88a1b24d1f52aee"}, "userId": {"$oid": "f34de56e85bde7bb9d3d520b"}, "subscriptionId": {"$oid": "f89ee5ca75c338df421d441f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "2d9e107154144b54131193d6"}, "userId": {"$oid": "bbf79f3fcff044f85024c2e0"}, "subscriptionId": {"$oid": "969589b3437e6237aa82ff9e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "12d3eb810539d5eba6268da5"}, "userId": {"$oid": "da54b7101754cfe6b8994774"}, "subscriptionId": {"$oid": "fe694dcb27281b1718c6bdf2"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "aef5d752c69c480fa247ba09"}, "userId": {"$oid": "f22dc17ea389e896291a0fac"}, "subscriptionId": {"$oid": "cc56dc9e263f66481539ad3b"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "8e9850dca8e2ba10b61eb2d5"}, "userId": {"$oid": "3237c1c41645b9783e034fa5"}, "subscriptionId": {"$oid": "8d37c7644246aed579eff8ef"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5f2c31adebaff0adf98a04d2"}, "userId": {"$oid": "d21adce4af0b2267900d699f"}, "subscriptionId": {"$oid": "d80e750d2b7e2a8258104bf1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e1497bdded39c3ad45fd0a0d"}, "userId": {"$oid": "0e259b9a9fce92bb5a831163"}, "subscriptionId": {"$oid": "df7e35051c1d8d8c638f663e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "63924999ee922e3424443d25"}, "userId": {"$oid": "f2633d2c8648eeb87b1ea52a"}, "subscriptionId": {"$oid": "e261026f693baa823868c736"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "07bafacc9cc162273afc4e12"}, "userId": {"$oid": "74c8f834fc2eb4a001e42389"}, "subscriptionId": {"$oid": "2fad9750b88aa44f6a7c87b0"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "536ab6e5d0ad3f0ea991224e"}, "userId": {"$oid": "84cc95193a90c204001c365e"}, "subscriptionId": {"$oid": "a1b8e56d39ef7d5ef0131915"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "54572de8b7127daf7a4a1bf4"}, "userId": {"$oid": "3b1adcfe374922817fd75319"}, "subscriptionId": {"$oid": "761d6bf865784769f98429cf"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "cea06ca1e9e028cdb5e9609d"}, "userId": {"$oid": "12335af0d5d2f2e5d728af12"}, "subscriptionId": {"$oid": "cc520fe92f98ddd089093fa3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "e027c6a56892dcf6d71c6daf"}, "userId": {"$oid": "5a1c938133932a9d65d53909"}, "subscriptionId": {"$oid": "51569b9897f6472f3e075842"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "8c5a89e48cba57f29a2b829f"}, "userId": {"$oid": "17660d61a615a208ebb008bf"}, "subscriptionId": {"$oid": "39e93d992e32a6c74571dcdf"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "25ecf60847f7080fafbdaf85"}, "userId": {"$oid": "303caeadb3f233072f82d4d9"}, "subscriptionId": {"$oid": "943dcba719f3b1a96464f792"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "e6bae8e1d8b2ce875c630eba"}, "userId": {"$oid": "77764dbdaf29e2b49e802eac"}, "subscriptionId": {"$oid": "bf5b7ede609aa6f5e0eb6876"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "89ff4de59f9e8ccfa411975e"}, "userId": {"$oid": "6646fa78e821f5f8f88ee103"}, "subscriptionId": {"$oid": "3c261353cca9377abdbc4663"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ba6c80a945c8c6adf688fde9"}, "userId": {"$oid": "10090ce14d18f67585dad426"}, "subscriptionId": {"$oid": "70311c1aba5ec3ca0ec0d687"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "16f04c56766dd540881486d9"}, "userId": {"$oid": "729b787a4fd30682b1588eb3"}, "subscriptionId": {"$oid": "c94283a22dd4bb89d190a4a8"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "99a23dd9af36937101e0b8aa"}, "userId": {"$oid": "a264f4d0375c4c7c246c09ae"}, "subscriptionId": {"$oid": "947e085cc68a82c57bceb87f"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "8439574d8b79a3d96449e04c"}, "userId": {"$oid": "5960ba310c689b6763cdbf6e"}, "subscriptionId": {"$oid": "0ac3451fe021e5f592897881"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "29eb38c78fa0626ea25577fe"}, "userId": {"$oid": "37a9bd70a9a3f7894afbd6b7"}, "subscriptionId": {"$oid": "c256f0f1c2c004f90d16c995"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "325d487f61f6d7d02124c723"}, "userId": {"$oid": "2a5a8754971e8db396898ad1"}, "subscriptionId": {"$oid": "0561a4763aa0a0557bfa0c97"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ac53d21eb8ed346d2cd7b9fb"}, "userId": {"$oid": "fc0d3ba8311338fd017326ca"}, "subscriptionId": {"$oid": "4779f36a878ea919faae9b42"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c0bcaf6a291df024014360dd"}, "userId": {"$oid": "fb9dd6abc3a611d5c7ab414c"}, "subscriptionId": {"$oid": "68d498ffe6b1ede5ef6c5543"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "7949fc939db69c4fbd9c8b00"}, "userId": {"$oid": "f2c4ff1f98d290e9048dfc5d"}, "subscriptionId": {"$oid": "378ab3e4ac26a0f258057291"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "5b46eb65d0fd0166daa0f4aa"}, "userId": {"$oid": "4f9f335815bebea913b750ec"}, "subscriptionId": {"$oid": "e5d194021cf6f11c00632d9b"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "861a9372fa304cf4546b5b16"}, "userId": {"$oid": "a32cf07223f85703a297d683"}, "subscriptionId": {"$oid": "d189b5885e67fd3365a0fc98"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d2c4d23e75418b4c8ce47268"}, "userId": {"$oid": "1be9fb1a48ed8abd6f50ba3a"}, "subscriptionId": {"$oid": "d5ec6f618db82b38ba0b91cd"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5584eafcabcc0eb0c35df46d"}, "userId": {"$oid": "5672e31bb139667fe1b0b986"}, "subscriptionId": {"$oid": "d5765f0956113f298c152591"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "f14be54da6482d54475a8532"}, "userId": {"$oid": "839974d05dad694018f45fca"}, "subscriptionId": {"$oid": "d5cd1591c4ac3445311e76eb"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cdf25ad3bb96c5f1365a80fa"}, "userId": {"$oid": "6fa0dc1d4f9aed86903b98bb"}, "subscriptionId": {"$oid": "bafea1719a8159912842269b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "833e93202984a5a667f92307"}, "userId": {"$oid": "a1f3e45b6045c74189484d5c"}, "subscriptionId": {"$oid": "16a3f8839493f937d789baca"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "b4d01803622e719e0cbc342e"}, "userId": {"$oid": "9713e2476cb07aacba40760c"}, "subscriptionId": {"$oid": "7b72e7b17bac38f701925515"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "2d59d36d1fcc18e8ef2b6878"}, "userId": {"$oid": "24f09b2d433868aade79ccf9"}, "subscriptionId": {"$oid": "dc84207857ac7357bb783c21"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "4f4cfbdbfea7eca42ad8b4c1"}, "userId": {"$oid": "ed1d6ed037f7b7d1cdc331c5"}, "subscriptionId": {"$oid": "cb9db73a9ecafda481c36faf"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9121518fdef26a9b495e3946"}, "userId": {"$oid": "6a1106eb21f4f04a0c6778a4"}, "subscriptionId": {"$oid": "f05bb8a143abafe5f38e21ec"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "949de0458a5b88a2e8436d0a"}, "userId": {"$oid": "f38d0ae1ee1eb9e77d20023e"}, "subscriptionId": {"$oid": "566e2e3037c9a61eba9e5b08"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3d12a8b294bd760d848e094e"}, "userId": {"$oid": "1ca80fb39a293ce7691d8fc1"}, "subscriptionId": {"$oid": "42d54d6ee346f93ec7a97792"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "3321aa4dbb3b37a5440db2e4"}, "userId": {"$oid": "134b6966daaa167c397a8c1b"}, "subscriptionId": {"$oid": "06cddd11e6829819eb64bced"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "7b07ff959797e07bc369fdc8"}, "userId": {"$oid": "b3975bd5eb8adc189363f68a"}, "subscriptionId": {"$oid": "2aa2b397560ab4248e0179a8"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "ef9f3727686ae62a7499ed37"}, "userId": {"$oid": "ac7cf432fc6742c2e8f7835b"}, "subscriptionId": {"$oid": "7dedfaeff2c469b4d474777d"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "75ee97b2d04b7a5d1adcec2d"}, "userId": {"$oid": "187dab75e68c34fe19992cb7"}, "subscriptionId": {"$oid": "be32ce15e4533f8218b30ffc"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "7cf181b3fd91bfcde1728a88"}, "userId": {"$oid": "866be60e99478c728df86d69"}, "subscriptionId": {"$oid": "5e0f5ddba23688b5b504278b"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ae433481fc3d473e12fea810"}, "userId": {"$oid": "79c771c0333519319d2df965"}, "subscriptionId": {"$oid": "0b19b24b304def38a44ba8a7"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "e8bd9e25ecd93fff42e1de7f"}, "userId": {"$oid": "24b182fe07a9c07c26a7d5c2"}, "subscriptionId": {"$oid": "ab342f654a0df457b0d47ba5"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "6024abdc86e0562f3d496e9a"}, "userId": {"$oid": "c7964b8fbbf1cfde9b8dbf85"}, "subscriptionId": {"$oid": "a51a015ab25503558d35360f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "7a860ebb2ec4eac730be6009"}, "userId": {"$oid": "b4631bac7e4b398c21544d47"}, "subscriptionId": {"$oid": "42a47420f933ebb593ce33a1"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "a612796ec798f339426c4bd8"}, "userId": {"$oid": "fdfa3ee8bdcb7a853acc506b"}, "subscriptionId": {"$oid": "21e6f629645baae38eb9176f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9f2ff27a0617a3d3c7f56ac5"}, "userId": {"$oid": "26568efd00ab8baf51405f4d"}, "subscriptionId": {"$oid": "0a4bcd88cb3869f729213389"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "6a0a6df40e79729b6204a25b"}, "userId": {"$oid": "38508960fe1f6311440e7860"}, "subscriptionId": {"$oid": "5fb670f37caaf655464067e8"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "bd9d020ea2aa4d0c33ed09be"}, "userId": {"$oid": "7ea3f38f77d5500c5af7125b"}, "subscriptionId": {"$oid": "5c3dab822dd2bcf9ba2ffa5c"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "7dec0f02aa5ca0e0598fa9a8"}, "userId": {"$oid": "bd0d2444cee2cae6c71c96aa"}, "subscriptionId": {"$oid": "f881b4e2b02446d4b2042b41"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "75d2ff15886b962052973f3e"}, "userId": {"$oid": "7fe6406be203d948b88d1233"}, "subscriptionId": {"$oid": "f85f2afe4b448703444f29b6"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "4e9642f9f4a116d9277fce57"}, "userId": {"$oid": "81c2ef850e459d616fafca5d"}, "subscriptionId": {"$oid": "8b98a030f505e023395099e3"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "81c9df0d35a2efc392bf4a00"}, "userId": {"$oid": "4515a011639a405b7461fbb3"}, "subscriptionId": {"$oid": "a490e6a78aab2d2eb83db98a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "e3e91ec1f00c761c5247f6ce"}, "userId": {"$oid": "9ce2988727202ddeb4439187"}, "subscriptionId": {"$oid": "5ab53adea9b45660c4b9755f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "9d03b9c8dfb274f5dd3eaab2"}, "userId": {"$oid": "26ef49e4f3d98c31a6bb3544"}, "subscriptionId": {"$oid": "639ea12fb4230f7b6609a6ff"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "fbab49468b4ff3622278de74"}, "userId": {"$oid": "3ef3980b86dcf050cbe641e9"}, "subscriptionId": {"$oid": "a9f6208d2434a41b2ea55ff4"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c3baa1e3d9f2b4792fd330d1"}, "userId": {"$oid": "528166c0e243bc7b7c2a3144"}, "subscriptionId": {"$oid": "1a1db5a719ffcf7ebcb8ff28"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "549008972ce511c42482da7b"}, "userId": {"$oid": "0316300781be38058ed469be"}, "subscriptionId": {"$oid": "c0474386408038c76cd91320"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ac1f402dd8ab273b537c27a6"}, "userId": {"$oid": "38c87adf07f35ccd41fb5aca"}, "subscriptionId": {"$oid": "d57533485b9bc30d1c34d094"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "3d8dd35c2bd4364d27868b15"}, "userId": {"$oid": "54cc717e2bd1732c3dd53d05"}, "subscriptionId": {"$oid": "97869e76ebc73c93c57e923e"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "dfbb32363983c019539a5a39"}, "userId": {"$oid": "1de72b20bd0ed2a39f5f5799"}, "subscriptionId": {"$oid": "ccddcef81835b25ddc9edb6a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "453d5b82063cfdef4515e832"}, "userId": {"$oid": "97bd66abda9d42536bc746fd"}, "subscriptionId": {"$oid": "a0f341261ea74feacc854a80"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "dfe7f1c37adacc1a6a2e9832"}, "userId": {"$oid": "66cd719d79fd22c66b7933b3"}, "subscriptionId": {"$oid": "9d0a5db2f5a229f1310e3aca"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fd49fd1c892773ce1988036f"}, "userId": {"$oid": "769a01c87d285b8fdd98d5d7"}, "subscriptionId": {"$oid": "04dac429b9ba6d8c9402ed7f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "ed9fe7fd8f333f0ab941e35d"}, "userId": {"$oid": "8e1dd2d1904c6a3e462ea547"}, "subscriptionId": {"$oid": "68baf303aa77068f3f72bec6"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "b62c9e5536b9121fd299d88e"}, "userId": {"$oid": "820f807c24f508ca856fd323"}, "subscriptionId": {"$oid": "099463616af9a60ad129221b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fc7f5da558220a28268ab07e"}, "userId": {"$oid": "f5a62f70c2071ac26383db0a"}, "subscriptionId": {"$oid": "bdda179e56ba844c5c9f9afd"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "2561d26d5a53a7a9c4b15e8e"}, "userId": {"$oid": "525e9caae7467b719684266c"}, "subscriptionId": {"$oid": "0c720372d11d7f903ab57357"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "838c9e7d2b3f214e23d44f0c"}, "userId": {"$oid": "c2b92585dab7bb97b1429e63"}, "subscriptionId": {"$oid": "7485ecf3238b3d15c9bc45d0"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "61cbf0a20d13aa8ab1be1914"}, "userId": {"$oid": "e281197a62d7708a730e1458"}, "subscriptionId": {"$oid": "ddcb495f59da5f2227809152"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "950883f0c7f02ff602500db8"}, "userId": {"$oid": "0067285a679e605439993b47"}, "subscriptionId": {"$oid": "921ad27e3e5b71554ebdb3d5"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "421e25d77619cd9a6285fdc3"}, "userId": {"$oid": "a1059ef008f29f6aa1aaf03f"}, "subscriptionId": {"$oid": "32cba6a7dac968b7903c329b"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "01ed8555758aa87ae9cd6f75"}, "userId": {"$oid": "f290d0cb7a01effbb0817b7a"}, "subscriptionId": {"$oid": "ddba13d792b41643ef2d50e6"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e544a322c11e8e573eea271f"}, "userId": {"$oid": "b06dfc224118dd4912db2f37"}, "subscriptionId": {"$oid": "e34fd0eb1b14022965098671"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "f70b39728513ae3c950917c2"}, "userId": {"$oid": "1452e16597559466155d0eeb"}, "subscriptionId": {"$oid": "006eab15e88841e1ba3370cf"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "1a81306fc0da8dae34a3a492"}, "userId": {"$oid": "ac8747d697ed56bae5e5caf2"}, "subscriptionId": {"$oid": "8662cfea490c18130ef6a2dd"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "68a13092b1d2588639df8d40"}, "userId": {"$oid": "92b2eb111823a56ce99e094c"}, "subscriptionId": {"$oid": "654d68ad3a80200727acef07"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "6755add77f61563129b76329"}, "userId": {"$oid": "8ffb02a31cea85daf5784dc8"}, "subscriptionId": {"$oid": "6045d72c35f38892aba7c0e3"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "c89661967edbbb44c958d35d"}, "userId": {"$oid": "8740b7cedb2ea3122e084651"}, "subscriptionId": {"$oid": "413c92264168f4d3f7e43b92"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cfd4b95bdcf589aa50d097ce"}, "userId": {"$oid": "eb9c198c5a90777d5648ba81"}, "subscriptionId": {"$oid": "52bc07a7cca61c3cde046ef3"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "dc4b6c7bf269ad5621547449"}, "userId": {"$oid": "76b50eebe7e86fb34c985294"}, "subscriptionId": {"$oid": "f64c26d1b19860fb948c8e55"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "210a307dc31bf7f2bd4dbd28"}, "userId": {"$oid": "d1827ae5aab1de9eb32aec76"}, "subscriptionId": {"$oid": "42c51f7aa8f308169942e71b"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d59012bd71030fc933e3c301"}, "userId": {"$oid": "6f97e4a037672e4496ede2c0"}, "subscriptionId": {"$oid": "c3b301bda3bf972d422403ed"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fd0b826328697701afe5d87f"}, "userId": {"$oid": "96b0d63c229edddbb12a85bc"}, "subscriptionId": {"$oid": "1a7d8951a9d1b7511aea893c"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "eb3d0d56738573d40f114848"}, "userId": {"$oid": "c148905de907f3682bb7c3c2"}, "subscriptionId": {"$oid": "eec7243dc6a22a003a12cba1"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "2cbaf84eb1f5999c7841b7e7"}, "userId": {"$oid": "6dff04dac0d3dfdd8478c052"}, "subscriptionId": {"$oid": "6a21ac8d7c162874ce36e8f4"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "6172e086d771793000d703dd"}, "userId": {"$oid": "f39f5a9a3645cb79f936a74b"}, "subscriptionId": {"$oid": "bd2a7f8c6027730f05778412"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e23438091f5e173e4e43b6a4"}, "userId": {"$oid": "e5872918dc58a187bd35272f"}, "subscriptionId": {"$oid": "5d08433af0b8fc050ef87c9d"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "489b4b05b7397fadf05a0ebf"}, "userId": {"$oid": "d14f722c04e14f532fb5408f"}, "subscriptionId": {"$oid": "79c924a9953a385941abb4b8"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "0714214206297b3d38e45b5c"}, "userId": {"$oid": "34e61f3f2173ec164b7c4f95"}, "subscriptionId": {"$oid": "9f6bb8c3b193c4967ff78bcc"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "ad02c973f5a8d3311b4d0562"}, "userId": {"$oid": "c6d8045eba462858a82e7a54"}, "subscriptionId": {"$oid": "8b0208458814ccdb3372afe1"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "d744bc90ca71fdc5b453504d"}, "userId": {"$oid": "ad671a3ad7cf4e612da1ea50"}, "subscriptionId": {"$oid": "be4a180daa381cee8f4ef29f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "9da9a993f01807ab78d64f99"}, "userId": {"$oid": "87750b854052a9f4f98033f7"}, "subscriptionId": {"$oid": "cc716fcc3a4942c671c49808"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "42efa16190936c1369d0dc8a"}, "userId": {"$oid": "1d22055fc0c3fcadbf2de099"}, "subscriptionId": {"$oid": "91822af2edcca74fe58c1a4a"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "92eeda1383a5ca3696a6c9d4"}, "userId": {"$oid": "21a1fd09996eb93d9334b6da"}, "subscriptionId": {"$oid": "e12fc36baaee84a1cc96a2d1"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "80cb31dc8f17aeae742a1af4"}, "userId": {"$oid": "e24ccf976baaac82a9d4368b"}, "subscriptionId": {"$oid": "91951ee8b480cf1ec4b0fad4"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "f1f3dc8bdf2c036720252d03"}, "userId": {"$oid": "ff66d12f0b3027d11f3f53dc"}, "subscriptionId": {"$oid": "8fc32a7cf9c5098edad7c562"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "a31887ff9babbff5ad9c7f46"}, "userId": {"$oid": "56f3594ac2c9d8075d489294"}, "subscriptionId": {"$oid": "e678f3ad1b3d39ad583280d3"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "706be4ed7b50190a48300ae6"}, "userId": {"$oid": "a929af58fb844fe00fbe7647"}, "subscriptionId": {"$oid": "76d2043e05a8ea8ddda6359e"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "7230644ccebf25570e6e6719"}, "userId": {"$oid": "01c2ddcc3b1f18d5b652a5f8"}, "subscriptionId": {"$oid": "4e3440b46507cd0fbd6dd12e"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "eae812334f773372b86948f1"}, "userId": {"$oid": "5487b2780e2793286e0a9f4b"}, "subscriptionId": {"$oid": "694633274f12f1fc71975700"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "428b27ae8f2cd1c03029ffe0"}, "userId": {"$oid": "9ee0577319bb5fc970705edd"}, "subscriptionId": {"$oid": "97cc822cee629338b9cf2f37"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a727a50862f1aedba7fa9d4a"}, "userId": {"$oid": "fa819ef61543d1fad7c9cdab"}, "subscriptionId": {"$oid": "3c4543a50f026da382c8a391"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "5468f92f480c4c900c0ed912"}, "userId": {"$oid": "f2c459dc7db8327b54f554a1"}, "subscriptionId": {"$oid": "b85bed5e04dd2baa30611c53"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "c27a1850d36f3eca57b04cc4"}, "userId": {"$oid": "40090a6b71ce22f624d5aa72"}, "subscriptionId": {"$oid": "69c3858808cf1bc211624b7c"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "56668c51cec70097548feb3b"}, "userId": {"$oid": "fd22b6642755faaa7a50b7f8"}, "subscriptionId": {"$oid": "55a508ef3a482709a61a2e9e"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "3a0a389f6dc555a074380277"}, "userId": {"$oid": "eb92415307f107fd3b8b9854"}, "subscriptionId": {"$oid": "7ac7c058f3fd35aac302f496"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "15a329bac20bc496b2abf35d"}, "userId": {"$oid": "c0e8609fb9e57ffb0bce084f"}, "subscriptionId": {"$oid": "4a8940c17727277f91fbe19f"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "c7a7c7e12228a806781e8b36"}, "userId": {"$oid": "c820895c2a18e95de2854a09"}, "subscriptionId": {"$oid": "783807e3fae1aa17b37429f6"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "07f82894889562d58fba5d66"}, "userId": {"$oid": "378f918f5927820da7c77b4c"}, "subscriptionId": {"$oid": "d7b9049a7cd41ff1842380b4"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "cfa37a5106d0fbb8a20bba77"}, "userId": {"$oid": "cfcc482c83abf3ad2cab8cb7"}, "subscriptionId": {"$oid": "d4c4383bb69ae814efa85599"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "027287d4459b606887c50dda"}, "userId": {"$oid": "c881b8aa2bf363f0777a5b5d"}, "subscriptionId": {"$oid": "eebd36a09994fc61986eee20"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "fee79c994a93489fcf5e7571"}, "userId": {"$oid": "f881389bd6498edfa5582f96"}, "subscriptionId": {"$oid": "b1b258c2b1129dca3e8cf2be"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "a9d969524b56c231d22c19f4"}, "userId": {"$oid": "8bc1ba6c0bbc442ca59f42d6"}, "subscriptionId": {"$oid": "ee9e91355cdeabe2fed5d15f"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "e2cb50755305d0ac57978bbe"}, "userId": {"$oid": "d713874865fc5b73d5575f08"}, "subscriptionId": {"$oid": "17b7407adf77a99f3f899971"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "3f0f2dca3cf70006cf92a9f3"}, "userId": {"$oid": "89a04c88be4dc1e9ecc7caee"}, "subscriptionId": {"$oid": "fd114cf999ac01e416d799d3"}, "fitnessGoal": "Lose weight"}
+{"_id": {"$oid": "ab50a4894b791b754da3f2dc"}, "userId": {"$oid": "8f725ca1bd4d7c0827b685ac"}, "subscriptionId": {"$oid": "a6ada2ce2374380769d30e50"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "682680605aaa8301705611c6"}, "userId": {"$oid": "ed34d0afdc7b53c5a8aca276"}, "subscriptionId": {"$oid": "bcb072c7ca77478bd0e6d50d"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "059542cb718e57998fa4ca41"}, "userId": {"$oid": "1ace63163100552148f20c32"}, "subscriptionId": {"$oid": "3d18bdd2856df84a8cb84c1a"}, "fitnessGoal": "General fitness"}
+{"_id": {"$oid": "50e6d4fc79877c12ff2d380f"}, "userId": {"$oid": "ea9d4063409e9b0c0ba2acbe"}, "subscriptionId": {"$oid": "2fb6f51945e369c66a16a663"}, "fitnessGoal": "Build muscle"}
+{"_id": {"$oid": "0397d2f92132319559e7fd8a"}, "userId": {"$oid": "cdbd7cc1447875a67239ac71"}, "subscriptionId": {"$oid": "fa99375723c8f4ae4f81ff40"}, "fitnessGoal": "Rehab"}
+{"_id": {"$oid": "15f2273a1417c2a9ef62e2c5"}, "userId": {"$oid": "12ef37657b4ef85f9a1762eb"}, "subscriptionId": {"$oid": "1f1abff08b1b645230e256d5"}, "fitnessGoal": "General fitness"}

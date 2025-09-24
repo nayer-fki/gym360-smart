@@ -1,0 +1,11 @@
+# Node
+node_modules/
+gym360-backend/node_modules/
+gym360-frontend/node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Env
+.env
