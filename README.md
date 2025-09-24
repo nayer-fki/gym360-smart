@@ -23,8 +23,8 @@ The project is built with:
 ## ⚙️ Installation
 
 ### 1. Clone the repository
--git clone https://github.com/nayer-fki/gym360-smart.git
--cd gym360-smart
+git clone https://github.com/nayer-fki/gym360-smart.git \n
+cd gym360-smart
 
 
 
@@ -56,5 +56,6 @@ Open the `.pbix` file inside `power-bi/` with **Power BI Desktop** to view repor
 **Nayer Fki**  
 - GitHub: [nayer-fki](https://github.com/nayer-fki)  
 - Project: [gym360-smart](https://github.com/nayer-fki/gym360-smart)  
+
 
 
